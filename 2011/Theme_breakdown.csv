@@ -1,0 +1,765 @@
+theme,desc
+T1_1AGE0M,Age 0 Males
+T1_1AGE1M,Age 1 Males
+T1_1AGE2M,Age 2 Males
+T1_1AGE3M,Age 3 Males
+T1_1AGE4M,Age 4 Males
+T1_1AGE5M,Age 5 Males
+T1_1AGE6M,Age 6 Males
+T1_1AGE7M,Age 7 Males
+T1_1AGE8M,Age 8 Males
+T1_1AGE9M,Age 9 Males
+T1_1AGE10M,Age 10 Males
+T1_1AGE11M,Age 11 Males
+T1_1AGE12M,Age 12 Males
+T1_1AGE13M,Age 13 Males
+T1_1AGE14M,Age 14 Males
+T1_1AGE15M,Age 15 Males
+T1_1AGE16M,Age 16 Males
+T1_1AGE17M,Age 17 Males
+T1_1AGE18M,Age 18 Males
+T1_1AGE19M,Age 19 Males
+T1_1AGE20_24M,Age 20 -24 Males
+T1_1AGE25_29M,Age 25 -29 Males
+T1_1AGE30_34M,Age 30 -34 Males
+T1_1AGE35_39M,Age 35 -39 Males
+T1_1AGE40_44M,Age 40 -44 Males
+T1_1AGE45_49M,Age 45 -49 Males
+T1_1AGE50_54M,Age 50 -54 Males
+T1_1AGE55_59M,Age 55 -59 Males
+T1_1AGE60_64M,Age 60 -64 Males
+T1_1AGE65_69M,Age 65 -69 Males
+T1_1AGE70_74M,Age 70 -74 Males
+T1_1AGE75_79M,Age 75 -79 Males
+T1_1AGE80_84M,Age 80 -84 Males
+T1_1AGEGE_85M,Age 85+ Males
+T1_1AGETM,Total Males
+T1_1AGE0F,Age 0 Females
+T1_1AGE1F,Age 1 Females
+T1_1AGE2F,Age 2 Females
+T1_1AGE3F,Age 3 Females
+T1_1AGE4F,Age 4 Females
+T1_1AGE5F,Age 5 Females
+T1_1AGE6F,Age 6 Females
+T1_1AGE7F,Age 7 Females
+T1_1AGE8F,Age 8 Females
+T1_1AGE9F,Age 9 Females
+T1_1AGE10F,Age 10 Females
+T1_1AGE11F,Age 11 Females
+T1_1AGE12F,Age 12 Females
+T1_1AGE13F,Age 13 Females
+T1_1AGE14F,Age 14 Females
+T1_1AGE15F,Age 15 Females
+T1_1AGE16F,Age 16 Females
+T1_1AGE17F,Age 17 Females
+T1_1AGE18F,Age 18 Females
+T1_1AGE19F,Age 19 Females
+T1_1AGE20_24F,Age 20 -24 Females
+T1_1AGE25_29F,Age 25 -29 Females
+T1_1AGE30_34F,Age 30 -34 Females
+T1_1AGE35_39F,Age 35 -39 Females
+T1_1AGE40_44F,Age 40 -44 Females
+T1_1AGE45_49F,Age 45 -49 Females
+T1_1AGE50_54F,Age 50 -54 Females
+T1_1AGE55_59F,Age 55 -59 Females
+T1_1AGE60_64F,Age 60 -64 Females
+T1_1AGE65_69F,Age 65 -69 Females
+T1_1AGE70_74F,Age 70 -74 Females
+T1_1AGE75_79F,Age 75 -79 Females
+T1_1AGE80_84F,Age 80 -84 Females
+T1_1AGEGE_85F,Age 85+ Females
+T1_1AGETF,Total Females
+T1_1AGE0T,Age 0 Total
+T1_1AGE1T,Age 1 Total
+T1_1AGE2T,Age 2 Total
+T1_1AGE3T,Age 3 Total
+T1_1AGE4T,Age 4 Total
+T1_1AGE5T,Age 5 Total
+T1_1AGE6T,Age 6 Total
+T1_1AGE7T,Age 7 Total
+T1_1AGE8T,Age 8 Total
+T1_1AGE9T,Age 9 Total
+T1_1AGE10T,Age 10 Total
+T1_1AGE11T,Age 11 Total
+T1_1AGE12T,Age 12 Total
+T1_1AGE13T,Age 13 Total
+T1_1AGE14T,Age 14 Total
+T1_1AGE15T,Age 15 Total
+T1_1AGE16T,Age 16 Total
+T1_1AGE17T,Age 17 Total
+T1_1AGE18T,Age 18 Total
+T1_1AGE19T,Age 19 Total
+T1_1AGE20_24T,Age 20 -24 Total
+T1_1AGE25_29T,Age 25 -29 Total
+T1_1AGE30_34T,Age 30 -34 Total
+T1_1AGE35_39T,Age 35 -39 Total
+T1_1AGE40_44T,Age 40 -44 Total
+T1_1AGE45_49T,Age 45 -49 Total
+T1_1AGE50_54T,Age 50 -54 Total
+T1_1AGE55_59T,Age 55 -59 Total
+T1_1AGE60_64T,Age 60 -64 Total
+T1_1AGE65_69T,Age 65 -69 Total
+T1_1AGE70_74T,Age 70 -74 Total
+T1_1AGE75_79T,Age 75 -79 Total
+T1_1AGE80_84T,Age 80 -84 Total
+T1_1AGEGE_85T,Age 85+ Total
+T1_1AGETT,Total
+T1_2SGLM,Single Males
+T1_2MARM,Maried Males
+T1_2SEPM,Separated Males
+T1_2DIVM,Divorced Males
+T1_2WIDM,Widowed Males
+T1_2TM,Total Males
+T1_2SGLF,Single Females
+T1_2MARF,Maried Females
+T1_2SEPF,SeparatedFemales
+T1_2DIVF,Divorced Females
+T1_2WIDF,Widowed Females
+T1_2TF,Total Females
+T1_2SGLT,Single Total
+T1_2MART,Maried Total
+T1_2SEPT,Separated Total
+T1_2DIVT,Divorced Total
+T1_2WIDT,Widowed Total
+T1_2T,Total 
+T2_1IEBP,Ireland Place of Birth
+T2_1UKBP,UK Place of Birth
+T2_1PLBP,Poland Place of Birth
+T2_1LTBP,Lithuania Place of Birth
+T2_1EUBP,Other EU 27 Place of Birth
+T2_1RWBP,Rest of World Place of Birth
+T2_1NSBP,Not stated Place of Birth
+T2_1TBP,Total Place of Birth
+T2_1IEN,Irish by Nationality
+T2_1UKN,UK by Nationality
+T2_1PLN,Polish by Nationality
+T2_1LTN,Lithuanian by Nationality
+T2_1EUN,Other EU 27 by Nationality
+T2_1RWN,Rest of World by Nationality
+T2_1NSN,Not Stated by Nationality
+T2_1TN,Total by Nationality
+T2_2WI,White Irish
+T2_2WIT,White Irish Traveller
+T2_2OW,Other White
+T2_2BBI,Black or Black Irish
+T2_2AAI,Asian or Asian Irish
+T2_2OTH,Other
+T2_2NS,Not Stated
+T2_2T,Total
+T2_3SA,Same Address
+T2_3EC,Elsewhere in County
+T2_3EI,Elsewhere in Ireland
+T2_3OI,Outside Ireland
+T2_3T,Total
+T2_4CA,Catholic
+T2_4OR,Other Religion
+T2_4NR,No Religion
+T2_4NS,Not Stated
+T2_4T,Total
+T2_5T,Total
+T2_5PL,Polish
+T2_5FR,French
+T2_5LT,Lithuanian
+T2_5OTH,Other
+T2_6T,Total
+T2_6VW,Very Well
+T2_6W,Well
+T2_6NW,Not Well
+T2_6NAA,Not At All
+T2_6NS,Not Stated
+T3_1YES,Yes (Speak Irish)
+T3_1NO,No (Speak Irish)
+T3_1NS,Not Stated (Speak Irish)
+T3_1T,Total
+T3_2T,Total
+T3_2DW,Daily Within education system
+T3_2DWO,Daily Within and Outside education system
+T3_2DO,Daily Outside educaton system
+T3_2WO,Weekly Outside education system
+T3_2LO,Less Often outside education system
+T3_2NO,Never Outside education system
+T3_2NSO,Not Stated Outside education system
+T3_3DM,Daily Males
+T3_3WM,Weekly Males
+T3_3LOM,Less Often Males
+T3_3NM,Never Males
+T3_3TM,Total Males
+T3_3DF,Daily Females
+T3_3WF,Weekly Females
+T3_3LOF,Less Often Females
+T3_3NF,Never Females
+T3_3TF,Total Females
+T3_3DT,Daily Total
+T3_3WT,Weekly Total
+T3_3LOT,Less Often Total
+T3_3NT,Never Total
+T3_3TT,Total
+T4_1_2PF,2 Persons (No of families)
+T4_1_3PF,3 Persons (No of families)
+T4_1_4PF,4 Persons (No of families)
+T4_1_5PF,5 Persons (No of families)
+T4_1_GRE_6PF,6 or More Persons (No of families)
+T4_1_TF,Total
+T4_1_2PP,2 Persons (No of persons)
+T4_1_3PP,3 Persons (No of persons)
+T4_1_4PP,4 Persons (No of persons)
+T4_1_5PP,5 Persons (No of persons)
+T4_1_GRE_6PP,6 or More Persons (No of persons)
+T4_1_TP,Total
+T4_1_2PC,2 Persons (No of children)
+T4_1_3PC,3 Persons (No of children)
+T4_1_4PC,4 Persons (No of children)
+T4_1_5PC,5 Persons (No of children)
+T4_1_GRE_6PC,6 or More Persons (No of children)
+T4_1_TC,Total
+T4_2_NCU15,Families without children - All children under 15
+T4_2_1CU15,Families with 1 child - All children under 15
+T4_2_2CU15,Families with 2 children - All children under 15
+T4_2_3CU15,Familes with 3 children - All children under 15
+T4_2_4CU15,Families with 4 children - All children under 15
+T4_2_GE5U15,Families with 5 or more children - All children under 15
+T4_2_NCO15,Families without children - All children aged 15 or over
+T4_2_1CO15,Families with 1 child - All children aged 15 or over
+T4_2_2CO15,Families with 2 children - All children aged 15 or over
+T4_2_3CO15,Familes with 3 children - All children aged 15 or over
+T4_2_4CO15,Families with 4 children - All children aged 15 or over
+T4_2_GE5O15,Families with 5 or more children - All children aged 15 or over
+T4_2_NCUO15,Families without children - Children under and over 15
+T4_2_1CUO15,Families with 1 child - Children under and over 15
+T4_2_2CUO15,Families with 2 children - Children under and over 15
+T4_2_3CUO15,Familes with 3 children - Children under and over 15
+T4_2_4CUO15,Families with 4 children - Children under and over 15
+T4_2_GE5UO15,Families with 5 or more children - Children under and over 15
+T4_2_NCT,Families without children - Total
+T4_2_1CT,Families with 1 child - Total
+T4_2_2CT,Families with 2 children - Total
+T4_2_3CT,Familes with 3 children - Total
+T4_2_4CT,Families with 4 children - Total
+T4_2_GE5T,Families with 5 or more children - Total
+T4_3FLT15C,Couples with children - All children under 15 (No of families)
+T4_3FGE15C,Couples with children - All children aged 15 or over (No of families)
+T4_3FOTH15C,Couples with children - Children under and over 15 (No of families)
+T4_3FTC,Couples with children - Total (No of families)
+T4_3FLT15LM,Lone mothers with children - All children under 15 (No of families)
+T4_3FGE15LM,Lone mothers with children - All children aged 15 or over (No of families)
+T4_3FOTH15LM,Lone mothers with children - Children under and over 15 (No of families)
+T4_3FTLM,Lone mothers with children - Total (No of families)
+T4_3FLT15LF,Lone fathers with children - All children under 15 (No of families)
+T4_3FGE15LF,Lone fathers with children - All children aged 15 or over (No of families)
+T4_3FOTH15LF,Lone fathers with children - Children under and over 15 (No of families)
+T4_3FTLF,Lone fathers with children - Total (No of families)
+T4_3CLT15C,Couples with children - All children under 15 (No of children)
+T4_3CGE15C,Couples with children - All children aged 15 or over (No of children)
+T4_3COTH15C,Couples with children - Children under and over 15 (No of children)
+T4_3CTC,Couples with children - Total (No of children)
+T4_3CLT15LM,Lone mothers with children - All children under 15 (No of children)
+T4_3CGE15LM,Lone mothers with children - All children aged 15 or over (No of children)
+T4_3COTH15LM,Lone mothers with children - Children under and over 15 (No of children)
+T4_3CTLM,Lone mothers with children - Total (No of children)
+T4_3CLT15LF,Lone fathers with children - All children under 15 (No of children)
+T4_3CGE15LF,Lone fathers with children - All children aged 15 or over (No of children)
+T4_3COTH15LF,Lone fathers with children - Children under and over 15 (No of children)
+T4_3CTLF,Lone fathers with children - Total (No of children)
+T4_4AGE0_4F,Families with youngest child aged 0-4 (No of families)
+T4_4AGE5_9F,Families with youngest child aged 5-9 (No of families)
+T4_4AGE10_14F,Families with youngest child aged 10-14 (No of families)
+T4_4AGE15_19F,Families with youngest child aged 15-90 (No of families)
+T4_4AGE_GE20F,Families with youngest child aged 20+ (No of families)
+T4_4TF,Total  (No of families)
+T4_4AGE0_4P,Families with youngest child aged 0-4 (No of persons)
+T4_4AGE5_9P,Families with youngest child aged 5-9 (No of persons)
+T4_4AGE10_14P,Families with youngest child aged 10-14 (No of persons)
+T4_4AGE15_19P,Families with youngest child aged 15-90 (No of persons)
+T4_4AGE_GE20P,Families with youngest child aged 20+ (No of persons)
+T4_4TP,Total  (No of persons)
+T4_5PFF,Pre-family (No of families)
+T4_5ENF,Empty Nest (No of families)
+T4_5RF,Retired (No of families)
+T4_5PSF,Pre-School (No of families)
+T4_5ESF,Early School (No of families)
+T4_5PAF,Pre-Adolescent (No of families)
+T4_5ADOF,Adolescent (No of families)
+T4_5ADUF,Adult (No of families)
+T4_5TF,Total (No of families)
+T4_5PFP,Pre-family (No of persons)
+T4_5ENP,Empty Nest (No of persons)
+T4_5RP,Retired (No of persons)
+T4_5PSP,Pre-School (No of persons)
+T4_5ESP,Early School (No of persons)
+T4_5PAP,Pre-Adolescent (No of persons)
+T4_5ADOP,Adolescent (No of persons)
+T4_5ADUP,Adult (No of persons)
+T4_5TP,Total (No of persons)
+T4_6_0C,0 Children born
+T4_6_1C,1 Child born
+T4_6_2C,2 Children born
+T4_6_3C,3 Children born
+T4_6_GE4C,4 or more Children born
+T4_6T,Total
+T5_1OP_H,One Person Households (No of households)
+T5_1HW_H,Husband and Wife Households (No of households)
+T5_1CC_H,Cohabiting Couple Households (No of households)
+T5_1HWC_H,"Husband, Wife and Children Households (No of households)"
+T5_1CCC_H,Cohabiting Couple and Children Households (No of households)
+T5_1FC_H,Father and Children Households (No of households)
+T5_1MC_H,Mother and Children Households (No of households)
+T5_1CO_H,Couple and Others Households (No of households)
+T5_1CCO_H,"Couple, Children and Others Households (No of households)"
+T5_1FCO_H,"Father, Children and Others Households (No of households)"
+T5_1MCO_H,"Mother, Children and Others Households (No of households)"
+T5_1GETFU_H,Two or more Family Units Households (No of households)
+T5_1NHR_H,Non-family Households and Relations Households (No of households)
+T5_1GENP_H,Two or more Non-related Persons Households (No of households)
+T5_1T_H,Total Households (No of households)
+T5_1OP_P,One Person Households (No of persons)
+T5_1HW_P,Husband and Wife Households (No of persons)
+T5_1CC_P,Cohabiting Couple Households (No of persons)
+T5_1HWC_P,"Husband, Wife and Children Households (No of persons)"
+T5_1CCC_P,Cohabiting Couple and Children Households (No of persons)
+T5_1FC_P,Father and Children Households (No of persons)
+T5_1MC_P,Mother and Children Households (No of persons)
+T5_1CO_P,Couple and Others Households (No of persons)
+T5_1CCO_P,"Couple, Children and Others Households (No of persons)"
+T5_1FCO_P,"Father, Children and Others Households (No of persons)"
+T5_1MCO_P,"Mother, Children and Others Households (No of persons)"
+T5_1GETFU_P,Two or more Family Units Households (No of persons)
+T5_1NHR_P,Non-family Households and Relations Households (No of persons)
+T5_1GENP_P,Two or more Non-related Persons Households (No of persons)
+T5_1T_P,Total Households (No of persons)
+T5_2_1PH,1 Person Households (No of households)
+T5_2_2PH,2 Person Households (No of households)
+T5_2_3PH,3 Person Households (No of households)
+T5_2_4PH,4 Person Households (No of households)
+T5_2_5PH,5 Person Households (No of households)
+T5_2_6PH,6 Person Households (No of households)
+T5_2_7PH,7 Person Households (No of households)
+T5_2_GE8H,8 or more Persons Households (No of households)
+T5_2_TH,Total Households (No of households)
+T5_2_1PP,1 Person Households (No of persons)
+T5_2_2PP,2 Person Households (No of persons)
+T5_2_3PP,3 Person Households (No of persons)
+T5_2_4PP,4 Person Households (No of persons)
+T5_2_5PP,5 Person Households (No of persons)
+T5_2_6PP,6 Person Households (No of persons)
+T5_2_7PP,7 Person Households (No of persons)
+T5_2_GE8P,8 or more Persons Households (No of persons)
+T5_2_TP,Total Households (No of persons)
+T6_1_HB_H,House/Bungalow (Households)
+T6_1_FA_H,Flat/Apartment (Households)
+T6_1_BS_H,Bed-Sit (Households)
+T6_1_CM_H,Caravan/Mobile home (Households)
+T6_1_NS_H,Not Stated (Households)
+T6_1_TH,Total (Households)
+T6_1_HB_P,House/Bungalow (Persons)
+T6_1_FA_P,Flat/Apartment (Persons)
+T6_1_BS_P,Bed-Sit (Persons)
+T6_1_CM_P,Caravan/Mobile home (Persons)
+T6_1_NS_P,Not Stated (Persons)
+T6_1_TP,Total (Persons)
+T6_2_PRE19H,Pre 1919 (Households)
+T6_2_19_45H,1919-1945 (Households)
+T6_2_46_60H,1946-1960 (Households)
+T6_2_61_70H,1961-1970 (Households)
+T6_2_71_80H,1971-1980 (Households)
+T6_2_81_90H,1981-1990 (Households)
+T6_2_91_00H,1991-2000 (Households)
+T6_2_01_05H,2001-2005 (Households)
+T6_2_06LH,2006 or Later (Households)
+T6_2_NSH,Not Stated (Households)
+T6_2_TH,Total (Households)
+T6_2_PRE19P,Pre 1919 (Persons)
+T6_2_19_45P,1919-1945 (Persons)
+T6_2_46_60P,1946-1960 (Persons)
+T6_2_61_70P,1961-1970 (Persons)
+T6_2_71_80P,1971-1980 (Persons)
+T6_2_81_90P,1981-1990 (Persons)
+T6_2_91_00P,1991-2000 (Persons)
+T6_2_01_05P,2001-2005 (Persons)
+T6_2_06LP,2006 or Later (Persons)
+T6_2_NSP,Not Stated (Persons)
+T6_2_TP,Total (Persons)
+T6_3_OOMH,Owner Occupier with Mortgage (Households)
+T6_3_OCNMH,Owner Occupier No Mortgage (Households)
+T6_3_RPLH,Rented from Private Landlord (Households)
+T6_3_RLAH,Rented from Local Authority (Households)
+T6_3_RVBH,Rented from Voluntary Body (Households)
+T6_3_OFRH,Rented Free of Rent (Households)
+T6_3_NSH,Not Stated (Households)
+T6_3_TH,Total (Households)
+T6_3_OOMP,Owner Occupier with Mortgage (Persons)
+T6_3_OCNMP,Owner Occupier No Mortgage (Persons)
+T6_3_RPLP,Rented from Private Landlord (Persons)
+T6_3_RLAP,Rented from Local Authority (Persons)
+T6_3_RVBP,Rented from Voluntary Body (Persons)
+T6_3_OFRP,Rented Free of Rent (Persons)
+T6_3_NSP,Not Stated (Persons)
+T6_3_TP,Total (Persons)
+T6_4_1RH,1 Room (Households)
+T6_4_2RH,2 Rooms (Households)
+T6_4_3RH,3 Rooms (Households)
+T6_4_4RH,4 Rooms (Households)
+T6_4_5RH,5 Rooms (Households)
+T6_4_6RH,6 Rooms (Households)
+T6_4_7RH,7 Rooms (Households)
+T6_4_GE8RH,8 or more Rooms (Households)
+T6_4_NSH,Not Stated (Households)
+T6_4_TH,Total (Households)
+T6_4_1RP,1 Room (Persons)
+T6_4_2RP,2 Rooms (Persons)
+T6_4_3RP,3 Rooms (Persons)
+T6_4_4RP,4 Rooms (Persons)
+T6_4_5RP,5 Rooms (Persons)
+T6_4_6RP,6 Rooms (Persons)
+T6_4_7RP,7 Rooms (Persons)
+T6_4_GE8RP,8 or more Rooms (Persons)
+T6_4_NSP,Not Stated (Persons)
+T6_4_TP,Total (Persons)
+T6_5_NCH,No Central Heating
+T6_5_OCH,Oil (Central Heating)
+T6_5_NGCH,Natural Gas (Central Heating)
+T6_5_ECH,Electricity (Central Heating)
+T6_5_CCH,Coal (Central Heating)
+T6_5_PCH,Peat (Central Heating)
+T6_5_LPGCH,Liquid Petroleum Gas (Central Heating)
+T6_5_WCH,Wood (Central Heating)
+T6_5_OTH,Other
+T6_5_NS,Not Stated
+T6_5_T,Total
+T6_6_PM,Public Main
+T6_6_GSLA,Group Scheme with Local Authority
+T6_6_GSP,Group Scheme with Private source
+T6_6_OP,Other Private source
+T6_6_N,None
+T6_6_NS,Not stated
+T6_6_T,Total
+T6_7_PS,Public Scheme
+T6_7_IST,Individual Septic Tank
+T6_7_OIT,Other Individual Treatment
+T6_7_OTH,Other
+T6_7_NSF,No Sewerage Facility
+T6_7_NS,Not Stated
+T6_7_T,Total
+T6_8_O,Occupied
+T6_8_U,Unoccupied
+T6_8_T,Total
+T7_1_NE,Number of Establishment
+T7_1_NP,Number of Persons
+T8_1_WM,At Work (Males)
+T8_1_LFFJM,Looking For First Job (Males)
+T8_1_ULGUPJM,Unemployed having Lost or Given Up Previous Job (Males)
+T8_1_SM,Student (Males)
+T8_1_LAHFM,Looking After Home/Family (Males)
+T8_1_RM,Retired (Males)
+T8_1_UTWSDM,Unable To Work due to Sickness or Disability (Males)
+T8_1_OTHM,Other (Males)
+T8_1_TM,Total (Males)
+T8_1_WF,At Work (Females)
+T8_1_LFFJF,Looking For First Job (Females)
+T8_1_ULGUPJF,Unemployed having Lost or Given Up Previous Job (Females)
+T8_1_SF,Student (Females)
+T8_1_LAHFF,Looking After Home/Family (Females)
+T8_1_RF,Retired (Females)
+T8_1_UTWSDF,Unable To Work due to Sickness or Disability (Females)
+T8_1_OTHF,Other (Females)
+T8_1_TF,Total (Females)
+T8_1_WT,At Work (Total)
+T8_1_LFFJT,Looking For First Job (Total)
+T8_1_ULGUPJT,Unemployed having Lost or Given Up Previous Job (Total)
+T8_1_ST,Student (Total)
+T8_1_LAHFT,Looking After Home/Family (Total)
+T8_1_RT,Retired (Total)
+T8_1_UTWSDT,Unable To Work due to Sickness or Disability (Total)
+T8_1_OTHT,Other (Total)
+T8_1_TT,Total (Total)
+T9_1_PWM,Professional workers (Males)
+T9_1_MTM,Managerial and Technical (Males)
+T9_1_NMM,Non-Manual (Males)
+T9_1_SM,Skilled Manual (Males)
+T9_1_SSM,Semi-Skilled (Males)
+T9_1_USM,Unskilled (Males)
+T9_1_OTHGEUM,All Others Gainfully occupied and Unknown (Males)
+T9_1_TM,Total (Males)
+T9_1_PWF,Professional Workers (Females)
+T9_1_MTF,Managerial and Technical (Females)
+T9_1_NMF,Non-Manual (Females)
+T9_1_SF,Skilled Manual (Females)
+T9_1_SSF,Semi-Skilled (Females)
+T9_1_USF,Unskilled (Females)
+T9_1_OTHGEUF,All Others Gainfully occupied and Unknown (Females)
+T9_1_TF,Total (Females)
+T9_1_PWT,Professional Workers (Total)
+T9_1_MTT,Managerial and Technical (Total)
+T9_1_NMT,Non-Manual (Total)
+T9_1_ST,Skilled Manual (Total)
+T9_1_SST,Semi-Skilled (Total)
+T9_1_UST,Unskilled (Total)
+T9_1_OTHGEUT,All Others Gainfully occupied and Unknown (Total)
+T9_1_TT,Total (Total)
+T9_2_HA,A Employers and managers (Households)
+T9_2_HB,B Higher professional (Households)
+T9_2_HC,C Lower professional (Households)
+T9_2_HD,D Non-manual (Households)
+T9_2_HE,E Manual skilled (Households)
+T9_2_HF,F Semi-skilled (Households)
+T9_2_HG,G Unskilled (Households)
+T9_2_HH,H Own account workers (Households)
+T9_2_HI,I Farmers (Households)
+T9_2_HJ,J Agricultural workers
+T9_2_HZ,Z All others gainfully occupied and unknown (Households)
+T9_2_HT,Total (Households)
+T9_2_PA,A Employers and managers (Persons)
+T9_2_PB,B Higher professional (Persons)
+T9_2_PC,C Lower professional (Persons)
+T9_2_PD,D Non-manual (Persons)
+T9_2_PE,E Manual skilled (Persons)
+T9_2_PF,F Semi-skilled (Persons)
+T9_2_PG,G Unskilled (Persons)
+T9_2_PH,H Own account workers (Persons)
+T9_2_PI,I Farmers (Persons)
+T9_2_PJ,J Agricultural workers
+T9_2_PZ,Z All others gainfully occupied and unknown (Persons)
+T9_2_PT,Total (Persons)
+T10_1_LT15M,Under 15 (Males)
+T10_1_15M,Age 15 (Males)
+T10_1_16M,Age 16 (Males)
+T10_1_17M,Age 17 (Males)
+T10_1_18M,Age 18 (Males)
+T10_1_19M,Age 19 (Males)
+T10_1_20M,Age 20 (Males)
+T10_1_GE21M,21 and Over (Males)
+T10_1_NSM,Not Stated (Males)
+T10_1_TM,Total (Males)
+T10_1_LT15F,Under 15 (Females)
+T10_1_15F,Age 15 (Females)
+T10_1_16F,Age 16 (Females)
+T10_1_17F,Age 17 (Females)
+T10_1_18F,Age 18 (Females)
+T10_1_19F,Age 19 (Females)
+T10_1_20F,Age 20 (Females)
+T10_1_GE21F,21 and Over (Females)
+T10_1_NSF,Not Stated (Females)
+T10_1_TF,Total (Females)
+T10_1_LT15T,Under 15 (Total)
+T10_1_15T,Age 15 (Total)
+T10_1_16T,Age 16 (Total)
+T10_1_17T,Age 17 (Total)
+T10_1_18T,Age 18 (Total)
+T10_1_19T,Age 19 (Total)
+T10_1_20T,Age 20 (Total)
+T10_1_GE21T,21 and Over (Total)
+T10_1_NST,Not Stated (Total)
+T10_1_TT,Total (Total)
+T10_2_SASM,Still At School (Males)
+T10_2_OTHM,Other (Males)
+T10_2_SASF,Still At School (Females)
+T10_2_OTHF,Other (Females)
+T10_2_SAST,Still At School (Total)
+T10_2_OTHT,Other (Total)
+T10_3_EDUM,Education and teacher training (Males)
+T10_3_ARTM,Art (Males)
+T10_3_HUMM,Humanities (Males)
+T10_3_SOCM,"Social sciences, Business and Law (Males)"
+T10_3_SCIM,"Science, Mathematics and Computing (Males)"
+T10_3_ENGM,"Engineering, Manufacturing and Construction (Males)"
+T10_3_AGRM,Agriculture and Veterinary (Males)
+T10_3_HEAM,Health and Welfare (Males)
+T10_3_SERM,Services (Males)
+T10_3_OTHM,Other subjects (Males)
+T10_3_NSM,Not Stated (Males)
+T10_3_TM,Total (Males)
+T10_3_EDUF,Education and teacher training (Females)
+T10_3_ARTF,Art (Females)
+T10_3_HUMF,Humanities (Females)
+T10_3_SOCF,"Social sciences, Business and Law (Females)"
+T10_3_SCIF,"Science, Mathematics and Computing (Females)"
+T10_3_ENGF,"Engineering, Manufacturing and Construction (Females)"
+T10_3_AGRF,Agriculture and Veterinary (Females)
+T10_3_HEAF,Health and Welfare (Females)
+T10_3_SERF,Services (Females)
+T10_3_OTHF,Other subjects (Females)
+T10_3_NSF,Not Stated (Females)
+T10_3_TF,Total (Females)
+T10_3_EDUT,Education and teacher training (Total)
+T10_3_ARTT,Art (Total)
+T10_3_HUMT,Humanities (Total)
+T10_3_SOCT,"Social sciences, Business and Law (Total)"
+T10_3_SCIT,"Science, Mathematics and Computing (Total)"
+T10_3_ENGT,"Engineering, Manufacturing and Construction (Total)"
+T10_3_AGRT,Agriculture and Veterinary (Total)
+T10_3_HEAT,Health and Welfare (Total)
+T10_3_SERT,Services (Total)
+T10_3_OTHT,Other subjects (Total)
+T10_3_NST,Not Stated (Total)
+T10_3_TT,Total (Total)
+T10_4_NFM,No Formal Education (Males)
+T10_4_PM,Primary Education (Males)
+T10_4_LSM,Lower Secondary (Males)
+T10_4_USM,Upper Secondary (Males)
+T10_4_TVM,Technical or Vocational qualification (Males)
+T10_4_ACCAM,Advanced Certificate/Completed Apprenticeship (Males)
+T10_4_HCM,Higher Certificate (Males)
+T10_4_ODNDM,Ordinary Bachelor Degree or National Diploma (Males)
+T10_4_HDPQM,"Honours Bachelor Degree, Professional Qualification or both (Males)"
+T10_4_PDM,Postgraduate Diploma or Degree (Males)
+T10_4_DM,Doctorate(Ph.D) or higher (Males)
+T10_4_NSM,Not Stated (Males)
+T10_4_TM,Total (Males)
+T10_4_NFF,No Formal Education (Females)
+T10_4_PF,Primary Education (Females)
+T10_4_LSF,Lower Secondary (Females)
+T10_4_USF,Upper Secondary (Females)
+T10_4_TVF,Technical or Vocational qualification (Females)
+T10_4_ACCAF,Advanced Certificate/Completed Apprenticeship (Females)
+T10_4_HCF,Higher Certificate (Females)
+T10_4_ODNDF,Ordinary Bachelor Degree or National Diploma (Females)
+T10_4_HDPQF,"Honours Bachelor Degree, Professional Qualification or both (Females)"
+T10_4_PDF,Postgraduate Diploma or Degree (Females)
+T10_4_DF,Doctorate(Ph.D) or higher (Females)
+T10_4_NSF,Not Stated (Females)
+T10_4_TF,Total (Females)
+T10_4_NFT,No Formal Education (Total)
+T10_4_PT,Primary Education (Total)
+T10_4_LST,Lower Secondary (Total)
+T10_4_UST,Upper Secondary (Total)
+T10_4_TVT,Technical or Vocational qualification (Total)
+T10_4_ACCAT,Advanced Certificate/Completed Apprenticeship (Total)
+T10_4_HCT,Higher Certificate (Total)
+T10_4_ODNDT,Ordinary Bachelor Degree or National Diploma (Total)
+T10_4_HDPQT,"Honours Bachelor Degree, Professional Qualification or both (Total)"
+T10_4_PDT,Postgraduate Diploma or Degree (Total)
+T10_4_DT,Doctorate(Ph.D) or higher (Total)
+T10_4_NST,Not Stated (Total)
+T10_4_TT,Total (Total)
+T11_1_F,On foot
+T11_1_BI,Bicycle
+T11_1_BU,"Bus, minibus or coach"
+T11_1_TDL,"Train, DART or LUAS"
+T11_1_M,Motorcycle or scooter
+T11_1_CD,Car driver
+T11_1_CP,Car passenger
+T11_1_V,Van
+T11_1_OTH,Other
+T11_1_NS,Not stated
+T11_1_T,Total
+T11_2_T1,Before 06:30
+T11_2_T2,06:30-07:00
+T11_2_T3,07:01-07:30
+T11_2_T4,07:31-08:00
+T11_2_T5,08:01-08:30
+T11_2_T6,08:31-09:00
+T11_2_T7,09:01-09:30
+T11_2_T8,After 09:30
+T11_2_NS,Not stated
+T11_2_T,Total
+T11_3_D1,Under 15 mins
+T11_3_D2,1/4 hour - under 1/2 hour
+T11_3_D3,1/2 hour - under 3/4 hour
+T11_3_D4,3/4 hour - under 1 hour
+T11_3_D5,1 hour - under 1 1/2 hours
+T11_3_D6,1 1/2 hours and over
+T11_3_NS,Not stated
+T11_3_T,Total
+T12_1AGE0_14,Age 0-14 years
+T12_1AGE15_24,Age 15-24 years
+T12_1AGE25_44,Age 25-44 years
+T12_1AGE45_64,Age 45-64 years
+T12_1AGEGE65,Age 65+ years
+T12_1AGET,Age Total
+T12_21_14M,1-14 Hours (Males)
+T12_215_28M,15-28 Hours (Males)
+T12_229_42M,29-42 Hours (Males)
+T12_2GE43M,43+ Hours (Males)
+T12_2NSM,Not Stated (Males)
+T12_2TM,Total (Males)
+T12_21_14F,1-14 Hours (Females)
+T12_215_28F,15-28 Hours (Females)
+T12_229_42F,29-42 Hours (Females)
+T12_2GE43F,43+ Hours (Females)
+T12_2NSF,Not Stated (Females)
+T12_2TF,Total (Females)
+T12_3VGM,Very Good (Males)
+T12_3GM,Good (Males)
+T12_3FM,Fair (Males)
+T12_3BM,Bad (Males)
+T12_3VBM,Very Bad (Males)
+T12_3NSM,Not Stated (Males)
+T12_3TM,Total (Males)
+T12_3VGF,Very Good (Females)
+T12_3GF,Good (Females)
+T12_3FF,Fair (Females)
+T12_3BF,Bad (Females)
+T12_3VBF,Very Bad (Females)
+T12_3NSF,Not Stated (Females)
+T12_3TF,Total (Females)
+T12_3VGT,Very Good (Total)
+T12_3GT,Good (Total)
+T12_3FT,Fair (Total)
+T12_3BT,Bad (Total)
+T12_3VBT,Very Bad (Total)
+T12_3NST,Not Stated (Total)
+T12_3TT,Total (Total)
+T13_1_MDSOM,"Managers, Directors and Senior Officials (Males)"
+T13_1_POM,Professional Occupations (Males)
+T13_1_APTOM,Associate Professional and Technical Occupations (Males)
+T13_1_ASOM,Administrative and Secretarial Occupations (Males)
+T13_1_STOM,Skilled Trades Occupations (Males)
+T13_1_CLOSOM,"Caring, Leisure and Other Service Occupations (Males)"
+T13_1_SCSOM,Sales and Customer Service Occupations (Males)
+T13_1_PPMOM,"Process, Plant and Machine Operatives (Males)"
+T13_1_EOM,Elementary Occupations (Males)
+T13_1_NSM,Not stated (Males)
+T13_1_TM,Total (Males)
+T13_1_MDSOF,"Managers, Directors and Senior Officials (Females)"
+T13_1_POF,Professional Occupations (Females)
+T13_1_APTOF,Associate Professional and Technical Occupations (Females)
+T13_1_ASOF,Administrative and Secretarial Occupations (Females)
+T13_1_STOF,Skilled Trades Occupations (Females)
+T13_1_CLOSOF,"Caring, Leisure and Other Service Occupations (Females)"
+T13_1_SCSOF,Sales and Customer Service Occupations (Females)
+T13_1_PPMOF,"Process, Plant and Machine Operatives (Females)"
+T13_1_EOF,Elementary Occupations (Females)
+T13_1_NSF,Not stated (Females)
+T13_1_TF,Total (Females)
+T13_1_MDSOT,"Managers, Directors and Senior Officials (Total)"
+T13_1_POT,Professional Occupations (Total)
+T13_1_APTOT,Associate Professional and Technical Occupations (Total)
+T13_1_ASOT,Administrative and Secretarial Occupations (Total)
+T13_1_STOT,Skilled Trades Occupations (Total)
+T13_1_CLOSOT,"Caring, Leisure and Other Service Occupations (Total)"
+T13_1_SCSOT,Sales and Customer Service Occupations (Total)
+T13_1_PPMOT,"Process, Plant and Machine Operatives (Total)"
+T13_1_EOT,Elementary Occupations (Total)
+T13_1_NST,Not stated (Total)
+T13_1_TT,Total (Total)
+T14_1_AFFM,"Agriculture, forestry and fishing (Males)"
+T14_1_BCM,Building and construction (Males)
+T14_1_MIM,Manufacturing industries (Males)
+T14_1_CTM,Commerce and trade (Males)
+T14_1_TCM,Transport and communications (Males)
+T14_1_PAM,Public administration (Males)
+T14_1_PSM,Professional services (Males)
+T14_1_OTHM,Other (Males)
+T14_1_TM,Total (Males)
+T14_1_AFFF,"Agriculture, forestry and fishing (Females)"
+T14_1_BCF,Building and construction (Females)
+T14_1_MIF,Manufacturing industries (Females)
+T14_1_CTF,Commerce and trade (Females)
+T14_1_TCF,Transport and communications (Females)
+T14_1_PAF,Public administration (Females)
+T14_1_PSF,Professional services (Females)
+T14_1_OTHF,Other (Females)
+T14_1_TF,Total (Females)
+T15_1_NC,No motor car
+T15_1_1C,One motor car
+T15_1_2C,Two motor cars
+T15_1_3C,Three motor cars
+T15_1_GE4C,Four or more motor cars
+T15_2_Y,Yes
+T15_2_N,No
+T15_2_NS,Not Stated
+T15_2_T,Total
+T15_3_B,Broadband
+T15_3_OTH,Other
+T15_3_N,No
+T15_3_NS,Not Stated
+T15_3_T,Total
