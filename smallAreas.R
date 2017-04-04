@@ -2,6 +2,7 @@ library(readr)
 library(tidyr)
 library(dplyr)
 library(ggplot2)
+library(viridis)
 library(sf)
 
 themes <- read_csv("2011/Theme_breakdown.csv")
@@ -19,6 +20,8 @@ pop2011 <- smallAreaData %>%
   filter(theme == "T1_1AGETT")
 
 ggplot(smallAreaShape) +
-  geom_sf(aes(fill = Total2011)) +
-  scale_fill_viridis("Total2011") +
-  theme_bw()
+    geom_sf(aes(fill = Total2011), color = NA) +
+    scale_fill_viridis("Population 2011", direction = -1) +
+    theme_void()
+
+smallAreaData %>% filter(theme == "T1_1AGETT") %>% arrange(desc(vale))
