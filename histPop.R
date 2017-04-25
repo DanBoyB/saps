@@ -67,35 +67,4 @@ p <- pop_tween %>%
           plot.title = element_text(size = 20))
     
     
-gganimate(p, title_frame = FALSE, interval = 0.2)
-
-# saveHTML({
-#     for (i in years) 
-#     {
-#         p <- tidyPopData %>% 
-#             filter(year == i) %>% 
-#             transform(county = reorder(county, -popProp)) %>% 
-#             ggplot(aes(county, popProp, fill = county, colour = county, frame = year)) +
-#             geom_bar(stat = "identity", size = 0.2) +
-#             scale_fill_manual(name = "county", values = fill) +
-#             scale_colour_manual(name = "county", values = line) +
-#             scale_y_continuous(limits = c(0, 0.3), labels = percent) +
-#             labs(x = "", y = "Proportion of National Population") +
-#             theme_minimal() +
-#             theme(axis.text.x = element_text(angle = 90, hjust = 1), 
-#                   legend.position="none",
-#                   panel.background = element_blank(),
-#                   panel.grid = element_blank(),
-#                   plot.title = element_text(size = 20)) +
-#             ggtitle(i) 
-#         print(p)
-#         
-#     }},
-#     
-#     img.name = "anim_plot", imgdir = "anim_dir", htmlfile = "anim.html", 
-#     autobrowse = FALSE, title = "County Population Changes", verbose = FALSE, 
-#     interval = 1, ani.width = 800, ani.height = 600
-# )
-# 
-# graphics.off()
-#     
+gganimate(p, filename = "census19262016.gif", title_frame = FALSE, interval = 0.2)
