@@ -1,0 +1,2026 @@
+County,Sex,Census Year,Statistic,value
+State,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),6528799
+State,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),5111557
+State,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),4402111
+State,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),4053187
+State,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),3870020
+State,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),3468694
+State,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),3221823
+State,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),3139688
+State,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),2971992
+State,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),2968420
+State,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),2955107
+State,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),2960593
+State,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),2898264
+State,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),2818341
+State,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),2884002
+State,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),2978248
+State,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),3368217
+State,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),3443405
+State,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),3540643
+State,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),3525719
+State,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),3626087
+State,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),3917203
+State,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),4239848
+State,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),4588252
+State,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),4761865
+State,Male,1841,Population at Each Census from 1841 to 2016 (Number),3222485
+State,Male,1851,Population at Each Census from 1841 to 2016 (Number),2494478
+State,Male,1861,Population at Each Census from 1841 to 2016 (Number),2169042
+State,Male,1871,Population at Each Census from 1841 to 2016 (Number),1992468
+State,Male,1881,Population at Each Census from 1841 to 2016 (Number),1912438
+State,Male,1891,Population at Each Census from 1841 to 2016 (Number),1728601
+State,Male,1901,Population at Each Census from 1841 to 2016 (Number),1610085
+State,Male,1911,Population at Each Census from 1841 to 2016 (Number),1589509
+State,Male,1926,Population at Each Census from 1841 to 2016 (Number),1506889
+State,Male,1936,Population at Each Census from 1841 to 2016 (Number),1520454
+State,Male,1946,Population at Each Census from 1841 to 2016 (Number),1494877
+State,Male,1951,Population at Each Census from 1841 to 2016 (Number),1506597
+State,Male,1956,Population at Each Census from 1841 to 2016 (Number),1462928
+State,Male,1961,Population at Each Census from 1841 to 2016 (Number),1416549
+State,Male,1966,Population at Each Census from 1841 to 2016 (Number),1449032
+State,Male,1971,Population at Each Census from 1841 to 2016 (Number),1495760
+State,Male,1979,Population at Each Census from 1841 to 2016 (Number),1693272
+State,Male,1981,Population at Each Census from 1841 to 2016 (Number),1729354
+State,Male,1986,Population at Each Census from 1841 to 2016 (Number),1769690
+State,Male,1991,Population at Each Census from 1841 to 2016 (Number),1753418
+State,Male,1996,Population at Each Census from 1841 to 2016 (Number),1800232
+State,Male,2002,Population at Each Census from 1841 to 2016 (Number),1946164
+State,Male,2006,Population at Each Census from 1841 to 2016 (Number),2121171
+State,Male,2011,Population at Each Census from 1841 to 2016 (Number),2272699
+State,Male,2016,Population at Each Census from 1841 to 2016 (Number),2354428
+State,Female,1841,Population at Each Census from 1841 to 2016 (Number),3306314
+State,Female,1851,Population at Each Census from 1841 to 2016 (Number),2617079
+State,Female,1861,Population at Each Census from 1841 to 2016 (Number),2233069
+State,Female,1871,Population at Each Census from 1841 to 2016 (Number),2060719
+State,Female,1881,Population at Each Census from 1841 to 2016 (Number),1957582
+State,Female,1891,Population at Each Census from 1841 to 2016 (Number),1740093
+State,Female,1901,Population at Each Census from 1841 to 2016 (Number),1611738
+State,Female,1911,Population at Each Census from 1841 to 2016 (Number),1550179
+State,Female,1926,Population at Each Census from 1841 to 2016 (Number),1465103
+State,Female,1936,Population at Each Census from 1841 to 2016 (Number),1447966
+State,Female,1946,Population at Each Census from 1841 to 2016 (Number),1460230
+State,Female,1951,Population at Each Census from 1841 to 2016 (Number),1453996
+State,Female,1956,Population at Each Census from 1841 to 2016 (Number),1435336
+State,Female,1961,Population at Each Census from 1841 to 2016 (Number),1401792
+State,Female,1966,Population at Each Census from 1841 to 2016 (Number),1434970
+State,Female,1971,Population at Each Census from 1841 to 2016 (Number),1482488
+State,Female,1979,Population at Each Census from 1841 to 2016 (Number),1674945
+State,Female,1981,Population at Each Census from 1841 to 2016 (Number),1714051
+State,Female,1986,Population at Each Census from 1841 to 2016 (Number),1770953
+State,Female,1991,Population at Each Census from 1841 to 2016 (Number),1772301
+State,Female,1996,Population at Each Census from 1841 to 2016 (Number),1825855
+State,Female,2002,Population at Each Census from 1841 to 2016 (Number),1971039
+State,Female,2006,Population at Each Census from 1841 to 2016 (Number),2118677
+State,Female,2011,Population at Each Census from 1841 to 2016 (Number),2315553
+State,Female,2016,Population at Each Census from 1841 to 2016 (Number),2407437
+Carlow,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),86228
+Carlow,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),68078
+Carlow,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),57137
+Carlow,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),51650
+Carlow,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),46568
+Carlow,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),40936
+Carlow,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),37748
+Carlow,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),36252
+Carlow,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),34476
+Carlow,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),34452
+Carlow,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),34081
+Carlow,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),34162
+Carlow,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),33888
+Carlow,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),33342
+Carlow,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),33593
+Carlow,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),34237
+Carlow,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),38668
+Carlow,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),39820
+Carlow,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),40988
+Carlow,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),40942
+Carlow,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),41616
+Carlow,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),46014
+Carlow,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),50349
+Carlow,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),54612
+Carlow,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),56932
+Carlow,Male,1841,Population at Each Census from 1841 to 2016 (Number),42428
+Carlow,Male,1851,Population at Each Census from 1841 to 2016 (Number),33016
+Carlow,Male,1861,Population at Each Census from 1841 to 2016 (Number),28139
+Carlow,Male,1871,Population at Each Census from 1841 to 2016 (Number),25464
+Carlow,Male,1881,Population at Each Census from 1841 to 2016 (Number),23078
+Carlow,Male,1891,Population at Each Census from 1841 to 2016 (Number),20552
+Carlow,Male,1901,Population at Each Census from 1841 to 2016 (Number),19009
+Carlow,Male,1911,Population at Each Census from 1841 to 2016 (Number),18481
+Carlow,Male,1926,Population at Each Census from 1841 to 2016 (Number),17802
+Carlow,Male,1936,Population at Each Census from 1841 to 2016 (Number),18066
+Carlow,Male,1946,Population at Each Census from 1841 to 2016 (Number),17702
+Carlow,Male,1951,Population at Each Census from 1841 to 2016 (Number),17848
+Carlow,Male,1956,Population at Each Census from 1841 to 2016 (Number),17666
+Carlow,Male,1961,Population at Each Census from 1841 to 2016 (Number),17360
+Carlow,Male,1966,Population at Each Census from 1841 to 2016 (Number),17320
+Carlow,Male,1971,Population at Each Census from 1841 to 2016 (Number),17502
+Carlow,Male,1979,Population at Each Census from 1841 to 2016 (Number),19743
+Carlow,Male,1981,Population at Each Census from 1841 to 2016 (Number),20195
+Carlow,Male,1986,Population at Each Census from 1841 to 2016 (Number),20816
+Carlow,Male,1991,Population at Each Census from 1841 to 2016 (Number),20785
+Carlow,Male,1996,Population at Each Census from 1841 to 2016 (Number),21086
+Carlow,Male,2002,Population at Each Census from 1841 to 2016 (Number),23403
+Carlow,Male,2006,Population at Each Census from 1841 to 2016 (Number),25611
+Carlow,Male,2011,Population at Each Census from 1841 to 2016 (Number),27431
+Carlow,Male,2016,Population at Each Census from 1841 to 2016 (Number),28465
+Carlow,Female,1841,Population at Each Census from 1841 to 2016 (Number),43800
+Carlow,Female,1851,Population at Each Census from 1841 to 2016 (Number),35062
+Carlow,Female,1861,Population at Each Census from 1841 to 2016 (Number),28998
+Carlow,Female,1871,Population at Each Census from 1841 to 2016 (Number),26186
+Carlow,Female,1881,Population at Each Census from 1841 to 2016 (Number),23490
+Carlow,Female,1891,Population at Each Census from 1841 to 2016 (Number),20384
+Carlow,Female,1901,Population at Each Census from 1841 to 2016 (Number),18739
+Carlow,Female,1911,Population at Each Census from 1841 to 2016 (Number),17771
+Carlow,Female,1926,Population at Each Census from 1841 to 2016 (Number),16674
+Carlow,Female,1936,Population at Each Census from 1841 to 2016 (Number),16386
+Carlow,Female,1946,Population at Each Census from 1841 to 2016 (Number),16379
+Carlow,Female,1951,Population at Each Census from 1841 to 2016 (Number),16314
+Carlow,Female,1956,Population at Each Census from 1841 to 2016 (Number),16222
+Carlow,Female,1961,Population at Each Census from 1841 to 2016 (Number),15982
+Carlow,Female,1966,Population at Each Census from 1841 to 2016 (Number),16273
+Carlow,Female,1971,Population at Each Census from 1841 to 2016 (Number),16735
+Carlow,Female,1979,Population at Each Census from 1841 to 2016 (Number),18925
+Carlow,Female,1981,Population at Each Census from 1841 to 2016 (Number),19625
+Carlow,Female,1986,Population at Each Census from 1841 to 2016 (Number),20172
+Carlow,Female,1991,Population at Each Census from 1841 to 2016 (Number),20157
+Carlow,Female,1996,Population at Each Census from 1841 to 2016 (Number),20530
+Carlow,Female,2002,Population at Each Census from 1841 to 2016 (Number),22611
+Carlow,Female,2006,Population at Each Census from 1841 to 2016 (Number),24738
+Carlow,Female,2011,Population at Each Census from 1841 to 2016 (Number),27181
+Carlow,Female,2016,Population at Each Census from 1841 to 2016 (Number),28467
+Dublin,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),372773
+Dublin,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),405147
+Dublin,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),410252
+Dublin,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),405262
+Dublin,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),418910
+Dublin,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),419216
+Dublin,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),448206
+Dublin,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),477196
+Dublin,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),505654
+Dublin,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),586925
+Dublin,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),636193
+Dublin,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),693022
+Dublin,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),705781
+Dublin,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),718332
+Dublin,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),795047
+Dublin,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),852219
+Dublin,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),983683
+Dublin,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),1003164
+Dublin,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),1021449
+Dublin,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),1025304
+Dublin,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),1058264
+Dublin,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),1122821
+Dublin,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),1187176
+Dublin,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),1273069
+Dublin,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),1347359
+Dublin,Male,1841,Population at Each Census from 1841 to 2016 (Number),170930
+Dublin,Male,1851,Population at Each Census from 1841 to 2016 (Number),187286
+Dublin,Male,1861,Population at Each Census from 1841 to 2016 (Number),191435
+Dublin,Male,1871,Population at Each Census from 1841 to 2016 (Number),188108
+Dublin,Male,1881,Population at Each Census from 1841 to 2016 (Number),197740
+Dublin,Male,1891,Population at Each Census from 1841 to 2016 (Number),197409
+Dublin,Male,1901,Population at Each Census from 1841 to 2016 (Number),211786
+Dublin,Male,1911,Population at Each Census from 1841 to 2016 (Number),226364
+Dublin,Male,1926,Population at Each Census from 1841 to 2016 (Number),238995
+Dublin,Male,1936,Population at Each Census from 1841 to 2016 (Number),277098
+Dublin,Male,1946,Population at Each Census from 1841 to 2016 (Number),292205
+Dublin,Male,1951,Population at Each Census from 1841 to 2016 (Number),326126
+Dublin,Male,1956,Population at Each Census from 1841 to 2016 (Number),329627
+Dublin,Male,1961,Population at Each Census from 1841 to 2016 (Number),335004
+Dublin,Male,1966,Population at Each Census from 1841 to 2016 (Number),375692
+Dublin,Male,1971,Population at Each Census from 1841 to 2016 (Number),406008
+Dublin,Male,1979,Population at Each Census from 1841 to 2016 (Number),473104
+Dublin,Male,1981,Population at Each Census from 1841 to 2016 (Number),482342
+Dublin,Male,1986,Population at Each Census from 1841 to 2016 (Number),492279
+Dublin,Male,1991,Population at Each Census from 1841 to 2016 (Number),492432
+Dublin,Male,1996,Population at Each Census from 1841 to 2016 (Number),508966
+Dublin,Male,2002,Population at Each Census from 1841 to 2016 (Number),544075
+Dublin,Male,2006,Population at Each Census from 1841 to 2016 (Number),582557
+Dublin,Male,2011,Population at Each Census from 1841 to 2016 (Number),619902
+Dublin,Male,2016,Population at Each Census from 1841 to 2016 (Number),658371
+Dublin,Female,1841,Population at Each Census from 1841 to 2016 (Number),201843
+Dublin,Female,1851,Population at Each Census from 1841 to 2016 (Number),217861
+Dublin,Female,1861,Population at Each Census from 1841 to 2016 (Number),218817
+Dublin,Female,1871,Population at Each Census from 1841 to 2016 (Number),217154
+Dublin,Female,1881,Population at Each Census from 1841 to 2016 (Number),221170
+Dublin,Female,1891,Population at Each Census from 1841 to 2016 (Number),221807
+Dublin,Female,1901,Population at Each Census from 1841 to 2016 (Number),236420
+Dublin,Female,1911,Population at Each Census from 1841 to 2016 (Number),250832
+Dublin,Female,1926,Population at Each Census from 1841 to 2016 (Number),266659
+Dublin,Female,1936,Population at Each Census from 1841 to 2016 (Number),309827
+Dublin,Female,1946,Population at Each Census from 1841 to 2016 (Number),343988
+Dublin,Female,1951,Population at Each Census from 1841 to 2016 (Number),366896
+Dublin,Female,1956,Population at Each Census from 1841 to 2016 (Number),376154
+Dublin,Female,1961,Population at Each Census from 1841 to 2016 (Number),383328
+Dublin,Female,1966,Population at Each Census from 1841 to 2016 (Number),419355
+Dublin,Female,1971,Population at Each Census from 1841 to 2016 (Number),446211
+Dublin,Female,1979,Population at Each Census from 1841 to 2016 (Number),510579
+Dublin,Female,1981,Population at Each Census from 1841 to 2016 (Number),520822
+Dublin,Female,1986,Population at Each Census from 1841 to 2016 (Number),529170
+Dublin,Female,1991,Population at Each Census from 1841 to 2016 (Number),532872
+Dublin,Female,1996,Population at Each Census from 1841 to 2016 (Number),549298
+Dublin,Female,2002,Population at Each Census from 1841 to 2016 (Number),578746
+Dublin,Female,2006,Population at Each Census from 1841 to 2016 (Number),604619
+Dublin,Female,2011,Population at Each Census from 1841 to 2016 (Number),653167
+Dublin,Female,2016,Population at Each Census from 1841 to 2016 (Number),688988
+Kildare,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),114488
+Kildare,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),95723
+Kildare,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),90946
+Kildare,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),83614
+Kildare,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),75804
+Kildare,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),70206
+Kildare,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),63566
+Kildare,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),66627
+Kildare,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),58028
+Kildare,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),57892
+Kildare,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),64849
+Kildare,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),66437
+Kildare,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),65915
+Kildare,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),64420
+Kildare,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),66404
+Kildare,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),71977
+Kildare,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),97185
+Kildare,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),104122
+Kildare,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),116247
+Kildare,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),122656
+Kildare,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),134992
+Kildare,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),163944
+Kildare,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),186335
+Kildare,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),210312
+Kildare,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),222504
+Kildare,Male,1841,Population at Each Census from 1841 to 2016 (Number),58030
+Kildare,Male,1851,Population at Each Census from 1841 to 2016 (Number),48528
+Kildare,Male,1861,Population at Each Census from 1841 to 2016 (Number),48960
+Kildare,Male,1871,Population at Each Census from 1841 to 2016 (Number),44946
+Kildare,Male,1881,Population at Each Census from 1841 to 2016 (Number),40701
+Kildare,Male,1891,Population at Each Census from 1841 to 2016 (Number),38407
+Kildare,Male,1901,Population at Each Census from 1841 to 2016 (Number),34703
+Kildare,Male,1911,Population at Each Census from 1841 to 2016 (Number),37684
+Kildare,Male,1926,Population at Each Census from 1841 to 2016 (Number),31987
+Kildare,Male,1936,Population at Each Census from 1841 to 2016 (Number),31956
+Kildare,Male,1946,Population at Each Census from 1841 to 2016 (Number),36057
+Kildare,Male,1951,Population at Each Census from 1841 to 2016 (Number),36364
+Kildare,Male,1956,Population at Each Census from 1841 to 2016 (Number),35069
+Kildare,Male,1961,Population at Each Census from 1841 to 2016 (Number),34068
+Kildare,Male,1966,Population at Each Census from 1841 to 2016 (Number),34829
+Kildare,Male,1971,Population at Each Census from 1841 to 2016 (Number),37279
+Kildare,Male,1979,Population at Each Census from 1841 to 2016 (Number),50666
+Kildare,Male,1981,Population at Each Census from 1841 to 2016 (Number),53967
+Kildare,Male,1986,Population at Each Census from 1841 to 2016 (Number),59542
+Kildare,Male,1991,Population at Each Census from 1841 to 2016 (Number),62207
+Kildare,Male,1996,Population at Each Census from 1841 to 2016 (Number),68007
+Kildare,Male,2002,Population at Each Census from 1841 to 2016 (Number),82735
+Kildare,Male,2006,Population at Each Census from 1841 to 2016 (Number),94190
+Kildare,Male,2011,Population at Each Census from 1841 to 2016 (Number),104658
+Kildare,Male,2016,Population at Each Census from 1841 to 2016 (Number),110546
+Kildare,Female,1841,Population at Each Census from 1841 to 2016 (Number),56458
+Kildare,Female,1851,Population at Each Census from 1841 to 2016 (Number),47195
+Kildare,Female,1861,Population at Each Census from 1841 to 2016 (Number),41986
+Kildare,Female,1871,Population at Each Census from 1841 to 2016 (Number),38668
+Kildare,Female,1881,Population at Each Census from 1841 to 2016 (Number),35103
+Kildare,Female,1891,Population at Each Census from 1841 to 2016 (Number),31799
+Kildare,Female,1901,Population at Each Census from 1841 to 2016 (Number),28863
+Kildare,Female,1911,Population at Each Census from 1841 to 2016 (Number),28943
+Kildare,Female,1926,Population at Each Census from 1841 to 2016 (Number),26041
+Kildare,Female,1936,Population at Each Census from 1841 to 2016 (Number),25936
+Kildare,Female,1946,Population at Each Census from 1841 to 2016 (Number),28792
+Kildare,Female,1951,Population at Each Census from 1841 to 2016 (Number),30073
+Kildare,Female,1956,Population at Each Census from 1841 to 2016 (Number),30846
+Kildare,Female,1961,Population at Each Census from 1841 to 2016 (Number),30352
+Kildare,Female,1966,Population at Each Census from 1841 to 2016 (Number),31575
+Kildare,Female,1971,Population at Each Census from 1841 to 2016 (Number),34698
+Kildare,Female,1979,Population at Each Census from 1841 to 2016 (Number),46519
+Kildare,Female,1981,Population at Each Census from 1841 to 2016 (Number),50155
+Kildare,Female,1986,Population at Each Census from 1841 to 2016 (Number),56705
+Kildare,Female,1991,Population at Each Census from 1841 to 2016 (Number),60449
+Kildare,Female,1996,Population at Each Census from 1841 to 2016 (Number),66985
+Kildare,Female,2002,Population at Each Census from 1841 to 2016 (Number),81209
+Kildare,Female,2006,Population at Each Census from 1841 to 2016 (Number),92145
+Kildare,Female,2011,Population at Each Census from 1841 to 2016 (Number),105654
+Kildare,Female,2016,Population at Each Census from 1841 to 2016 (Number),111958
+Kilkenny,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),202420
+Kilkenny,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),158748
+Kilkenny,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),124515
+Kilkenny,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),109379
+Kilkenny,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),99531
+Kilkenny,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),87261
+Kilkenny,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),79159
+Kilkenny,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),74962
+Kilkenny,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),70990
+Kilkenny,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),68614
+Kilkenny,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),66712
+Kilkenny,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),65235
+Kilkenny,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),64089
+Kilkenny,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),61668
+Kilkenny,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),60463
+Kilkenny,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),61473
+Kilkenny,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),69156
+Kilkenny,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),70806
+Kilkenny,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),73186
+Kilkenny,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),73635
+Kilkenny,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),75336
+Kilkenny,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),80339
+Kilkenny,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),87558
+Kilkenny,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),95419
+Kilkenny,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),99232
+Kilkenny,Male,1841,Population at Each Census from 1841 to 2016 (Number),99114
+Kilkenny,Male,1851,Population at Each Census from 1841 to 2016 (Number),76493
+Kilkenny,Male,1861,Population at Each Census from 1841 to 2016 (Number),60317
+Kilkenny,Male,1871,Population at Each Census from 1841 to 2016 (Number),52965
+Kilkenny,Male,1881,Population at Each Census from 1841 to 2016 (Number),48971
+Kilkenny,Male,1891,Population at Each Census from 1841 to 2016 (Number),43468
+Kilkenny,Male,1901,Population at Each Census from 1841 to 2016 (Number),40095
+Kilkenny,Male,1911,Population at Each Census from 1841 to 2016 (Number),38551
+Kilkenny,Male,1926,Population at Each Census from 1841 to 2016 (Number),37084
+Kilkenny,Male,1936,Population at Each Census from 1841 to 2016 (Number),36489
+Kilkenny,Male,1946,Population at Each Census from 1841 to 2016 (Number),35464
+Kilkenny,Male,1951,Population at Each Census from 1841 to 2016 (Number),34687
+Kilkenny,Male,1956,Population at Each Census from 1841 to 2016 (Number),33927
+Kilkenny,Male,1961,Population at Each Census from 1841 to 2016 (Number),32252
+Kilkenny,Male,1966,Population at Each Census from 1841 to 2016 (Number),31390
+Kilkenny,Male,1971,Population at Each Census from 1841 to 2016 (Number),31828
+Kilkenny,Male,1979,Population at Each Census from 1841 to 2016 (Number),35688
+Kilkenny,Male,1981,Population at Each Census from 1841 to 2016 (Number),36395
+Kilkenny,Male,1986,Population at Each Census from 1841 to 2016 (Number),37325
+Kilkenny,Male,1991,Population at Each Census from 1841 to 2016 (Number),37447
+Kilkenny,Male,1996,Population at Each Census from 1841 to 2016 (Number),38144
+Kilkenny,Male,2002,Population at Each Census from 1841 to 2016 (Number),40540
+Kilkenny,Male,2006,Population at Each Census from 1841 to 2016 (Number),44263
+Kilkenny,Male,2011,Population at Each Census from 1841 to 2016 (Number),47788
+Kilkenny,Male,2016,Population at Each Census from 1841 to 2016 (Number),49533
+Kilkenny,Female,1841,Population at Each Census from 1841 to 2016 (Number),103306
+Kilkenny,Female,1851,Population at Each Census from 1841 to 2016 (Number),82255
+Kilkenny,Female,1861,Population at Each Census from 1841 to 2016 (Number),64198
+Kilkenny,Female,1871,Population at Each Census from 1841 to 2016 (Number),56414
+Kilkenny,Female,1881,Population at Each Census from 1841 to 2016 (Number),50560
+Kilkenny,Female,1891,Population at Each Census from 1841 to 2016 (Number),43793
+Kilkenny,Female,1901,Population at Each Census from 1841 to 2016 (Number),39064
+Kilkenny,Female,1911,Population at Each Census from 1841 to 2016 (Number),36411
+Kilkenny,Female,1926,Population at Each Census from 1841 to 2016 (Number),33906
+Kilkenny,Female,1936,Population at Each Census from 1841 to 2016 (Number),32125
+Kilkenny,Female,1946,Population at Each Census from 1841 to 2016 (Number),31248
+Kilkenny,Female,1951,Population at Each Census from 1841 to 2016 (Number),30548
+Kilkenny,Female,1956,Population at Each Census from 1841 to 2016 (Number),30162
+Kilkenny,Female,1961,Population at Each Census from 1841 to 2016 (Number),29416
+Kilkenny,Female,1966,Population at Each Census from 1841 to 2016 (Number),29073
+Kilkenny,Female,1971,Population at Each Census from 1841 to 2016 (Number),29645
+Kilkenny,Female,1979,Population at Each Census from 1841 to 2016 (Number),33468
+Kilkenny,Female,1981,Population at Each Census from 1841 to 2016 (Number),34411
+Kilkenny,Female,1986,Population at Each Census from 1841 to 2016 (Number),35861
+Kilkenny,Female,1991,Population at Each Census from 1841 to 2016 (Number),36188
+Kilkenny,Female,1996,Population at Each Census from 1841 to 2016 (Number),37192
+Kilkenny,Female,2002,Population at Each Census from 1841 to 2016 (Number),39799
+Kilkenny,Female,2006,Population at Each Census from 1841 to 2016 (Number),43295
+Kilkenny,Female,2011,Population at Each Census from 1841 to 2016 (Number),47631
+Kilkenny,Female,2016,Population at Each Census from 1841 to 2016 (Number),49699
+Laois,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),153930
+Laois,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),111664
+Laois,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),90650
+Laois,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),79771
+Laois,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),73124
+Laois,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),64883
+Laois,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),57417
+Laois,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),54629
+Laois,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),51540
+Laois,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),50109
+Laois,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),49697
+Laois,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),48430
+Laois,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),47087
+Laois,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),45069
+Laois,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),44595
+Laois,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),45259
+Laois,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),49936
+Laois,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),51171
+Laois,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),53284
+Laois,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),52314
+Laois,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),52945
+Laois,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),58774
+Laois,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),67059
+Laois,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),80559
+Laois,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),84697
+Laois,Male,1841,Population at Each Census from 1841 to 2016 (Number),76403
+Laois,Male,1851,Population at Each Census from 1841 to 2016 (Number),55556
+Laois,Male,1861,Population at Each Census from 1841 to 2016 (Number),45112
+Laois,Male,1871,Population at Each Census from 1841 to 2016 (Number),39843
+Laois,Male,1881,Population at Each Census from 1841 to 2016 (Number),36861
+Laois,Male,1891,Population at Each Census from 1841 to 2016 (Number),33171
+Laois,Male,1901,Population at Each Census from 1841 to 2016 (Number),29694
+Laois,Male,1911,Population at Each Census from 1841 to 2016 (Number),28711
+Laois,Male,1926,Population at Each Census from 1841 to 2016 (Number),27198
+Laois,Male,1936,Population at Each Census from 1841 to 2016 (Number),27149
+Laois,Male,1946,Population at Each Census from 1841 to 2016 (Number),26751
+Laois,Male,1951,Population at Each Census from 1841 to 2016 (Number),26154
+Laois,Male,1956,Population at Each Census from 1841 to 2016 (Number),25233
+Laois,Male,1961,Population at Each Census from 1841 to 2016 (Number),23989
+Laois,Male,1966,Population at Each Census from 1841 to 2016 (Number),23622
+Laois,Male,1971,Population at Each Census from 1841 to 2016 (Number),23805
+Laois,Male,1979,Population at Each Census from 1841 to 2016 (Number),26192
+Laois,Male,1981,Population at Each Census from 1841 to 2016 (Number),26774
+Laois,Male,1986,Population at Each Census from 1841 to 2016 (Number),27531
+Laois,Male,1991,Population at Each Census from 1841 to 2016 (Number),26904
+Laois,Male,1996,Population at Each Census from 1841 to 2016 (Number),27160
+Laois,Male,2002,Population at Each Census from 1841 to 2016 (Number),30131
+Laois,Male,2006,Population at Each Census from 1841 to 2016 (Number),34409
+Laois,Male,2011,Population at Each Census from 1841 to 2016 (Number),40587
+Laois,Male,2016,Population at Each Census from 1841 to 2016 (Number),42811
+Laois,Female,1841,Population at Each Census from 1841 to 2016 (Number),77527
+Laois,Female,1851,Population at Each Census from 1841 to 2016 (Number),56108
+Laois,Female,1861,Population at Each Census from 1841 to 2016 (Number),45538
+Laois,Female,1871,Population at Each Census from 1841 to 2016 (Number),39928
+Laois,Female,1881,Population at Each Census from 1841 to 2016 (Number),36263
+Laois,Female,1891,Population at Each Census from 1841 to 2016 (Number),31712
+Laois,Female,1901,Population at Each Census from 1841 to 2016 (Number),27723
+Laois,Female,1911,Population at Each Census from 1841 to 2016 (Number),25918
+Laois,Female,1926,Population at Each Census from 1841 to 2016 (Number),24342
+Laois,Female,1936,Population at Each Census from 1841 to 2016 (Number),22960
+Laois,Female,1946,Population at Each Census from 1841 to 2016 (Number),22946
+Laois,Female,1951,Population at Each Census from 1841 to 2016 (Number),22276
+Laois,Female,1956,Population at Each Census from 1841 to 2016 (Number),21854
+Laois,Female,1961,Population at Each Census from 1841 to 2016 (Number),21080
+Laois,Female,1966,Population at Each Census from 1841 to 2016 (Number),20973
+Laois,Female,1971,Population at Each Census from 1841 to 2016 (Number),21454
+Laois,Female,1979,Population at Each Census from 1841 to 2016 (Number),23744
+Laois,Female,1981,Population at Each Census from 1841 to 2016 (Number),24397
+Laois,Female,1986,Population at Each Census from 1841 to 2016 (Number),25753
+Laois,Female,1991,Population at Each Census from 1841 to 2016 (Number),25410
+Laois,Female,1996,Population at Each Census from 1841 to 2016 (Number),25785
+Laois,Female,2002,Population at Each Census from 1841 to 2016 (Number),28643
+Laois,Female,2006,Population at Each Census from 1841 to 2016 (Number),32650
+Laois,Female,2011,Population at Each Census from 1841 to 2016 (Number),39972
+Laois,Female,2016,Population at Each Census from 1841 to 2016 (Number),41886
+Longford,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),115491
+Longford,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),82348
+Longford,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),71694
+Longford,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),64501
+Longford,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),61009
+Longford,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),52647
+Longford,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),46672
+Longford,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),43820
+Longford,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),39847
+Longford,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),37847
+Longford,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),36218
+Longford,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),34553
+Longford,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),32969
+Longford,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),30643
+Longford,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),28989
+Longford,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),28250
+Longford,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),30785
+Longford,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),31140
+Longford,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),31496
+Longford,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),30296
+Longford,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),30166
+Longford,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),31068
+Longford,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),34391
+Longford,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),39000
+Longford,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),40873
+Longford,Male,1841,Population at Each Census from 1841 to 2016 (Number),57610
+Longford,Male,1851,Population at Each Census from 1841 to 2016 (Number),41041
+Longford,Male,1861,Population at Each Census from 1841 to 2016 (Number),36044
+Longford,Male,1871,Population at Each Census from 1841 to 2016 (Number),32512
+Longford,Male,1881,Population at Each Census from 1841 to 2016 (Number),30770
+Longford,Male,1891,Population at Each Census from 1841 to 2016 (Number),26681
+Longford,Male,1901,Population at Each Census from 1841 to 2016 (Number),23814
+Longford,Male,1911,Population at Each Census from 1841 to 2016 (Number),22656
+Longford,Male,1926,Population at Each Census from 1841 to 2016 (Number),20805
+Longford,Male,1936,Population at Each Census from 1841 to 2016 (Number),20152
+Longford,Male,1946,Population at Each Census from 1841 to 2016 (Number),19322
+Longford,Male,1951,Population at Each Census from 1841 to 2016 (Number),18388
+Longford,Male,1956,Population at Each Census from 1841 to 2016 (Number),17477
+Longford,Male,1961,Population at Each Census from 1841 to 2016 (Number),16133
+Longford,Male,1966,Population at Each Census from 1841 to 2016 (Number),15245
+Longford,Male,1971,Population at Each Census from 1841 to 2016 (Number),14891
+Longford,Male,1979,Population at Each Census from 1841 to 2016 (Number),16059
+Longford,Male,1981,Population at Each Census from 1841 to 2016 (Number),16234
+Longford,Male,1986,Population at Each Census from 1841 to 2016 (Number),16153
+Longford,Male,1991,Population at Each Census from 1841 to 2016 (Number),15542
+Longford,Male,1996,Population at Each Census from 1841 to 2016 (Number),15468
+Longford,Male,2002,Population at Each Census from 1841 to 2016 (Number),15794
+Longford,Male,2006,Population at Each Census from 1841 to 2016 (Number),17573
+Longford,Male,2011,Population at Each Census from 1841 to 2016 (Number),19649
+Longford,Male,2016,Population at Each Census from 1841 to 2016 (Number),20587
+Longford,Female,1841,Population at Each Census from 1841 to 2016 (Number),57881
+Longford,Female,1851,Population at Each Census from 1841 to 2016 (Number),41307
+Longford,Female,1861,Population at Each Census from 1841 to 2016 (Number),35650
+Longford,Female,1871,Population at Each Census from 1841 to 2016 (Number),31989
+Longford,Female,1881,Population at Each Census from 1841 to 2016 (Number),30239
+Longford,Female,1891,Population at Each Census from 1841 to 2016 (Number),25966
+Longford,Female,1901,Population at Each Census from 1841 to 2016 (Number),22858
+Longford,Female,1911,Population at Each Census from 1841 to 2016 (Number),21164
+Longford,Female,1926,Population at Each Census from 1841 to 2016 (Number),19042
+Longford,Female,1936,Population at Each Census from 1841 to 2016 (Number),17695
+Longford,Female,1946,Population at Each Census from 1841 to 2016 (Number),16896
+Longford,Female,1951,Population at Each Census from 1841 to 2016 (Number),16165
+Longford,Female,1956,Population at Each Census from 1841 to 2016 (Number),15492
+Longford,Female,1961,Population at Each Census from 1841 to 2016 (Number),14510
+Longford,Female,1966,Population at Each Census from 1841 to 2016 (Number),13744
+Longford,Female,1971,Population at Each Census from 1841 to 2016 (Number),13359
+Longford,Female,1979,Population at Each Census from 1841 to 2016 (Number),14726
+Longford,Female,1981,Population at Each Census from 1841 to 2016 (Number),14906
+Longford,Female,1986,Population at Each Census from 1841 to 2016 (Number),15343
+Longford,Female,1991,Population at Each Census from 1841 to 2016 (Number),14754
+Longford,Female,1996,Population at Each Census from 1841 to 2016 (Number),14698
+Longford,Female,2002,Population at Each Census from 1841 to 2016 (Number),15274
+Longford,Female,2006,Population at Each Census from 1841 to 2016 (Number),16818
+Longford,Female,2011,Population at Each Census from 1841 to 2016 (Number),19351
+Longford,Female,2016,Population at Each Census from 1841 to 2016 (Number),20286
+Louth,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),128240
+Louth,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),107662
+Louth,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),90713
+Louth,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),84021
+Louth,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),77684
+Louth,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),71038
+Louth,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),65820
+Louth,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),63665
+Louth,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),62739
+Louth,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),64339
+Louth,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),66194
+Louth,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),68771
+Louth,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),69194
+Louth,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),67378
+Louth,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),69519
+Louth,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),74951
+Louth,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),86135
+Louth,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),88514
+Louth,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),91810
+Louth,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),90724
+Louth,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),92166
+Louth,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),101821
+Louth,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),111267
+Louth,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),122897
+Louth,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),128884
+Louth,Male,1841,Population at Each Census from 1841 to 2016 (Number),62297
+Louth,Male,1851,Population at Each Census from 1841 to 2016 (Number),52257
+Louth,Male,1861,Population at Each Census from 1841 to 2016 (Number),44241
+Louth,Male,1871,Population at Each Census from 1841 to 2016 (Number),41033
+Louth,Male,1881,Population at Each Census from 1841 to 2016 (Number),37989
+Louth,Male,1891,Population at Each Census from 1841 to 2016 (Number),35242
+Louth,Male,1901,Population at Each Census from 1841 to 2016 (Number),32666
+Louth,Male,1911,Population at Each Census from 1841 to 2016 (Number),32191
+Louth,Male,1926,Population at Each Census from 1841 to 2016 (Number),31749
+Louth,Male,1936,Population at Each Census from 1841 to 2016 (Number),32829
+Louth,Male,1946,Population at Each Census from 1841 to 2016 (Number),33399
+Louth,Male,1951,Population at Each Census from 1841 to 2016 (Number),34886
+Louth,Male,1956,Population at Each Census from 1841 to 2016 (Number),34788
+Louth,Male,1961,Population at Each Census from 1841 to 2016 (Number),33627
+Louth,Male,1966,Population at Each Census from 1841 to 2016 (Number),34664
+Louth,Male,1971,Population at Each Census from 1841 to 2016 (Number),37511
+Louth,Male,1979,Population at Each Census from 1841 to 2016 (Number),43061
+Louth,Male,1981,Population at Each Census from 1841 to 2016 (Number),44125
+Louth,Male,1986,Population at Each Census from 1841 to 2016 (Number),45530
+Louth,Male,1991,Population at Each Census from 1841 to 2016 (Number),44823
+Louth,Male,1996,Population at Each Census from 1841 to 2016 (Number),45641
+Louth,Male,2002,Population at Each Census from 1841 to 2016 (Number),50489
+Louth,Male,2006,Population at Each Census from 1841 to 2016 (Number),55335
+Louth,Male,2011,Population at Each Census from 1841 to 2016 (Number),60763
+Louth,Male,2016,Population at Each Census from 1841 to 2016 (Number),63633
+Louth,Female,1841,Population at Each Census from 1841 to 2016 (Number),65943
+Louth,Female,1851,Population at Each Census from 1841 to 2016 (Number),55405
+Louth,Female,1861,Population at Each Census from 1841 to 2016 (Number),46472
+Louth,Female,1871,Population at Each Census from 1841 to 2016 (Number),42988
+Louth,Female,1881,Population at Each Census from 1841 to 2016 (Number),39695
+Louth,Female,1891,Population at Each Census from 1841 to 2016 (Number),35796
+Louth,Female,1901,Population at Each Census from 1841 to 2016 (Number),33154
+Louth,Female,1911,Population at Each Census from 1841 to 2016 (Number),31474
+Louth,Female,1926,Population at Each Census from 1841 to 2016 (Number),30990
+Louth,Female,1936,Population at Each Census from 1841 to 2016 (Number),31510
+Louth,Female,1946,Population at Each Census from 1841 to 2016 (Number),32795
+Louth,Female,1951,Population at Each Census from 1841 to 2016 (Number),33885
+Louth,Female,1956,Population at Each Census from 1841 to 2016 (Number),34406
+Louth,Female,1961,Population at Each Census from 1841 to 2016 (Number),33751
+Louth,Female,1966,Population at Each Census from 1841 to 2016 (Number),34855
+Louth,Female,1971,Population at Each Census from 1841 to 2016 (Number),37440
+Louth,Female,1979,Population at Each Census from 1841 to 2016 (Number),43074
+Louth,Female,1981,Population at Each Census from 1841 to 2016 (Number),44389
+Louth,Female,1986,Population at Each Census from 1841 to 2016 (Number),46280
+Louth,Female,1991,Population at Each Census from 1841 to 2016 (Number),45901
+Louth,Female,1996,Population at Each Census from 1841 to 2016 (Number),46525
+Louth,Female,2002,Population at Each Census from 1841 to 2016 (Number),51332
+Louth,Female,2006,Population at Each Census from 1841 to 2016 (Number),55932
+Louth,Female,2011,Population at Each Census from 1841 to 2016 (Number),62134
+Louth,Female,2016,Population at Each Census from 1841 to 2016 (Number),65251
+Meath,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),183828
+Meath,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),140748
+Meath,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),110373
+Meath,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),95558
+Meath,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),87469
+Meath,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),76987
+Meath,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),67497
+Meath,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),65091
+Meath,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),62969
+Meath,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),61405
+Meath,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),66232
+Meath,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),66337
+Meath,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),66762
+Meath,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),65122
+Meath,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),67323
+Meath,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),71729
+Meath,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),90715
+Meath,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),95419
+Meath,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),103881
+Meath,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),105370
+Meath,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),109732
+Meath,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),134005
+Meath,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),162831
+Meath,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),184135
+Meath,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),195044
+Meath,Male,1841,Population at Each Census from 1841 to 2016 (Number),92494
+Meath,Male,1851,Population at Each Census from 1841 to 2016 (Number),70813
+Meath,Male,1861,Population at Each Census from 1841 to 2016 (Number),55800
+Meath,Male,1871,Population at Each Census from 1841 to 2016 (Number),48437
+Meath,Male,1881,Population at Each Census from 1841 to 2016 (Number),44315
+Meath,Male,1891,Population at Each Census from 1841 to 2016 (Number),39224
+Meath,Male,1901,Population at Each Census from 1841 to 2016 (Number),34757
+Meath,Male,1911,Population at Each Census from 1841 to 2016 (Number),33934
+Meath,Male,1926,Population at Each Census from 1841 to 2016 (Number),33082
+Meath,Male,1936,Population at Each Census from 1841 to 2016 (Number),32501
+Meath,Male,1946,Population at Each Census from 1841 to 2016 (Number),34950
+Meath,Male,1951,Population at Each Census from 1841 to 2016 (Number),34980
+Meath,Male,1956,Population at Each Census from 1841 to 2016 (Number),34830
+Meath,Male,1961,Population at Each Census from 1841 to 2016 (Number),33826
+Meath,Male,1966,Population at Each Census from 1841 to 2016 (Number),34877
+Meath,Male,1971,Population at Each Census from 1841 to 2016 (Number),36977
+Meath,Male,1979,Population at Each Census from 1841 to 2016 (Number),46704
+Meath,Male,1981,Population at Each Census from 1841 to 2016 (Number),48957
+Meath,Male,1986,Population at Each Census from 1841 to 2016 (Number),52931
+Meath,Male,1991,Population at Each Census from 1841 to 2016 (Number),53291
+Meath,Male,1996,Population at Each Census from 1841 to 2016 (Number),55340
+Meath,Male,2002,Population at Each Census from 1841 to 2016 (Number),67733
+Meath,Male,2006,Population at Each Census from 1841 to 2016 (Number),82651
+Meath,Male,2011,Population at Each Census from 1841 to 2016 (Number),91910
+Meath,Male,2016,Population at Each Census from 1841 to 2016 (Number),96776
+Meath,Female,1841,Population at Each Census from 1841 to 2016 (Number),91334
+Meath,Female,1851,Population at Each Census from 1841 to 2016 (Number),69935
+Meath,Female,1861,Population at Each Census from 1841 to 2016 (Number),54573
+Meath,Female,1871,Population at Each Census from 1841 to 2016 (Number),47121
+Meath,Female,1881,Population at Each Census from 1841 to 2016 (Number),43154
+Meath,Female,1891,Population at Each Census from 1841 to 2016 (Number),37763
+Meath,Female,1901,Population at Each Census from 1841 to 2016 (Number),32740
+Meath,Female,1911,Population at Each Census from 1841 to 2016 (Number),31157
+Meath,Female,1926,Population at Each Census from 1841 to 2016 (Number),29887
+Meath,Female,1936,Population at Each Census from 1841 to 2016 (Number),28904
+Meath,Female,1946,Population at Each Census from 1841 to 2016 (Number),31282
+Meath,Female,1951,Population at Each Census from 1841 to 2016 (Number),31357
+Meath,Female,1956,Population at Each Census from 1841 to 2016 (Number),31932
+Meath,Female,1961,Population at Each Census from 1841 to 2016 (Number),31296
+Meath,Female,1966,Population at Each Census from 1841 to 2016 (Number),32446
+Meath,Female,1971,Population at Each Census from 1841 to 2016 (Number),34752
+Meath,Female,1979,Population at Each Census from 1841 to 2016 (Number),44011
+Meath,Female,1981,Population at Each Census from 1841 to 2016 (Number),46462
+Meath,Female,1986,Population at Each Census from 1841 to 2016 (Number),50950
+Meath,Female,1991,Population at Each Census from 1841 to 2016 (Number),52079
+Meath,Female,1996,Population at Each Census from 1841 to 2016 (Number),54392
+Meath,Female,2002,Population at Each Census from 1841 to 2016 (Number),66272
+Meath,Female,2006,Population at Each Census from 1841 to 2016 (Number),80180
+Meath,Female,2011,Population at Each Census from 1841 to 2016 (Number),92225
+Meath,Female,2016,Population at Each Census from 1841 to 2016 (Number),98268
+Offaly,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),146857
+Offaly,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),112076
+Offaly,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),90043
+Offaly,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),75900
+Offaly,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),72852
+Offaly,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),65563
+Offaly,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),60187
+Offaly,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),56832
+Offaly,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),52592
+Offaly,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),51308
+Offaly,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),53686
+Offaly,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),52544
+Offaly,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),51970
+Offaly,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),51533
+Offaly,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),51717
+Offaly,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),51829
+Offaly,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),57342
+Offaly,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),58312
+Offaly,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),59835
+Offaly,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),58494
+Offaly,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),59117
+Offaly,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),63663
+Offaly,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),70868
+Offaly,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),76687
+Offaly,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),77961
+Offaly,Male,1841,Population at Each Census from 1841 to 2016 (Number),72651
+Offaly,Male,1851,Population at Each Census from 1841 to 2016 (Number),55284
+Offaly,Male,1861,Population at Each Census from 1841 to 2016 (Number),45513
+Offaly,Male,1871,Population at Each Census from 1841 to 2016 (Number),38307
+Offaly,Male,1881,Population at Each Census from 1841 to 2016 (Number),37106
+Offaly,Male,1891,Population at Each Census from 1841 to 2016 (Number),33777
+Offaly,Male,1901,Population at Each Census from 1841 to 2016 (Number),31065
+Offaly,Male,1911,Population at Each Census from 1841 to 2016 (Number),29804
+Offaly,Male,1926,Population at Each Census from 1841 to 2016 (Number),27566
+Offaly,Male,1936,Population at Each Census from 1841 to 2016 (Number),27555
+Offaly,Male,1946,Population at Each Census from 1841 to 2016 (Number),29311
+Offaly,Male,1951,Population at Each Census from 1841 to 2016 (Number),28306
+Offaly,Male,1956,Population at Each Census from 1841 to 2016 (Number),27591
+Offaly,Male,1961,Population at Each Census from 1841 to 2016 (Number),27188
+Offaly,Male,1966,Population at Each Census from 1841 to 2016 (Number),27007
+Offaly,Male,1971,Population at Each Census from 1841 to 2016 (Number),27029
+Offaly,Male,1979,Population at Each Census from 1841 to 2016 (Number),29792
+Offaly,Male,1981,Population at Each Census from 1841 to 2016 (Number),30290
+Offaly,Male,1986,Population at Each Census from 1841 to 2016 (Number),30819
+Offaly,Male,1991,Population at Each Census from 1841 to 2016 (Number),29892
+Offaly,Male,1996,Population at Each Census from 1841 to 2016 (Number),30003
+Offaly,Male,2002,Population at Each Census from 1841 to 2016 (Number),32185
+Offaly,Male,2006,Population at Each Census from 1841 to 2016 (Number),35937
+Offaly,Male,2011,Population at Each Census from 1841 to 2016 (Number),38430
+Offaly,Male,2016,Population at Each Census from 1841 to 2016 (Number),38838
+Offaly,Female,1841,Population at Each Census from 1841 to 2016 (Number),74206
+Offaly,Female,1851,Population at Each Census from 1841 to 2016 (Number),56792
+Offaly,Female,1861,Population at Each Census from 1841 to 2016 (Number),44530
+Offaly,Female,1871,Population at Each Census from 1841 to 2016 (Number),37593
+Offaly,Female,1881,Population at Each Census from 1841 to 2016 (Number),35746
+Offaly,Female,1891,Population at Each Census from 1841 to 2016 (Number),31786
+Offaly,Female,1901,Population at Each Census from 1841 to 2016 (Number),29122
+Offaly,Female,1911,Population at Each Census from 1841 to 2016 (Number),27028
+Offaly,Female,1926,Population at Each Census from 1841 to 2016 (Number),25026
+Offaly,Female,1936,Population at Each Census from 1841 to 2016 (Number),23753
+Offaly,Female,1946,Population at Each Census from 1841 to 2016 (Number),24375
+Offaly,Female,1951,Population at Each Census from 1841 to 2016 (Number),24238
+Offaly,Female,1956,Population at Each Census from 1841 to 2016 (Number),24379
+Offaly,Female,1961,Population at Each Census from 1841 to 2016 (Number),24345
+Offaly,Female,1966,Population at Each Census from 1841 to 2016 (Number),24710
+Offaly,Female,1971,Population at Each Census from 1841 to 2016 (Number),24800
+Offaly,Female,1979,Population at Each Census from 1841 to 2016 (Number),27550
+Offaly,Female,1981,Population at Each Census from 1841 to 2016 (Number),28022
+Offaly,Female,1986,Population at Each Census from 1841 to 2016 (Number),29016
+Offaly,Female,1991,Population at Each Census from 1841 to 2016 (Number),28602
+Offaly,Female,1996,Population at Each Census from 1841 to 2016 (Number),29114
+Offaly,Female,2002,Population at Each Census from 1841 to 2016 (Number),31478
+Offaly,Female,2006,Population at Each Census from 1841 to 2016 (Number),34931
+Offaly,Female,2011,Population at Each Census from 1841 to 2016 (Number),38257
+Offaly,Female,2016,Population at Each Census from 1841 to 2016 (Number),39123
+Westmeath,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),141300
+Westmeath,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),111407
+Westmeath,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),90879
+Westmeath,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),78432
+Westmeath,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),71798
+Westmeath,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),65109
+Westmeath,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),61629
+Westmeath,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),59986
+Westmeath,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),56818
+Westmeath,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),54706
+Westmeath,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),54949
+Westmeath,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),54463
+Westmeath,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),54122
+Westmeath,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),52861
+Westmeath,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),52900
+Westmeath,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),53570
+Westmeath,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),59885
+Westmeath,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),61523
+Westmeath,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),63379
+Westmeath,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),61880
+Westmeath,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),63314
+Westmeath,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),71858
+Westmeath,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),79346
+Westmeath,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),86164
+Westmeath,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),88770
+Westmeath,Male,1841,Population at Each Census from 1841 to 2016 (Number),70383
+Westmeath,Male,1851,Population at Each Census from 1841 to 2016 (Number),56095
+Westmeath,Male,1861,Population at Each Census from 1841 to 2016 (Number),46218
+Westmeath,Male,1871,Population at Each Census from 1841 to 2016 (Number),39804
+Westmeath,Male,1881,Population at Each Census from 1841 to 2016 (Number),36478
+Westmeath,Male,1891,Population at Each Census from 1841 to 2016 (Number),33927
+Westmeath,Male,1901,Population at Each Census from 1841 to 2016 (Number),31880
+Westmeath,Male,1911,Population at Each Census from 1841 to 2016 (Number),31910
+Westmeath,Male,1926,Population at Each Census from 1841 to 2016 (Number),30151
+Westmeath,Male,1936,Population at Each Census from 1841 to 2016 (Number),29039
+Westmeath,Male,1946,Population at Each Census from 1841 to 2016 (Number),29058
+Westmeath,Male,1951,Population at Each Census from 1841 to 2016 (Number),28737
+Westmeath,Male,1956,Population at Each Census from 1841 to 2016 (Number),28102
+Westmeath,Male,1961,Population at Each Census from 1841 to 2016 (Number),27183
+Westmeath,Male,1966,Population at Each Census from 1841 to 2016 (Number),27101
+Westmeath,Male,1971,Population at Each Census from 1841 to 2016 (Number),27544
+Westmeath,Male,1979,Population at Each Census from 1841 to 2016 (Number),30557
+Westmeath,Male,1981,Population at Each Census from 1841 to 2016 (Number),31388
+Westmeath,Male,1986,Population at Each Census from 1841 to 2016 (Number),32048
+Westmeath,Male,1991,Population at Each Census from 1841 to 2016 (Number),31006
+Westmeath,Male,1996,Population at Each Census from 1841 to 2016 (Number),31599
+Westmeath,Male,2002,Population at Each Census from 1841 to 2016 (Number),35960
+Westmeath,Male,2006,Population at Each Census from 1841 to 2016 (Number),39819
+Westmeath,Male,2011,Population at Each Census from 1841 to 2016 (Number),42783
+Westmeath,Male,2016,Population at Each Census from 1841 to 2016 (Number),44082
+Westmeath,Female,1841,Population at Each Census from 1841 to 2016 (Number),70917
+Westmeath,Female,1851,Population at Each Census from 1841 to 2016 (Number),55312
+Westmeath,Female,1861,Population at Each Census from 1841 to 2016 (Number),44661
+Westmeath,Female,1871,Population at Each Census from 1841 to 2016 (Number),38628
+Westmeath,Female,1881,Population at Each Census from 1841 to 2016 (Number),35320
+Westmeath,Female,1891,Population at Each Census from 1841 to 2016 (Number),31182
+Westmeath,Female,1901,Population at Each Census from 1841 to 2016 (Number),29749
+Westmeath,Female,1911,Population at Each Census from 1841 to 2016 (Number),28076
+Westmeath,Female,1926,Population at Each Census from 1841 to 2016 (Number),26667
+Westmeath,Female,1936,Population at Each Census from 1841 to 2016 (Number),25667
+Westmeath,Female,1946,Population at Each Census from 1841 to 2016 (Number),25891
+Westmeath,Female,1951,Population at Each Census from 1841 to 2016 (Number),25726
+Westmeath,Female,1956,Population at Each Census from 1841 to 2016 (Number),26020
+Westmeath,Female,1961,Population at Each Census from 1841 to 2016 (Number),25678
+Westmeath,Female,1966,Population at Each Census from 1841 to 2016 (Number),25799
+Westmeath,Female,1971,Population at Each Census from 1841 to 2016 (Number),26026
+Westmeath,Female,1979,Population at Each Census from 1841 to 2016 (Number),29328
+Westmeath,Female,1981,Population at Each Census from 1841 to 2016 (Number),30135
+Westmeath,Female,1986,Population at Each Census from 1841 to 2016 (Number),31331
+Westmeath,Female,1991,Population at Each Census from 1841 to 2016 (Number),30874
+Westmeath,Female,1996,Population at Each Census from 1841 to 2016 (Number),31715
+Westmeath,Female,2002,Population at Each Census from 1841 to 2016 (Number),35898
+Westmeath,Female,2006,Population at Each Census from 1841 to 2016 (Number),39527
+Westmeath,Female,2011,Population at Each Census from 1841 to 2016 (Number),43381
+Westmeath,Female,2016,Population at Each Census from 1841 to 2016 (Number),44688
+Wexford,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),202033
+Wexford,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),180158
+Wexford,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),143954
+Wexford,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),132666
+Wexford,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),123854
+Wexford,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),111778
+Wexford,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),104104
+Wexford,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),102273
+Wexford,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),95848
+Wexford,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),94245
+Wexford,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),91855
+Wexford,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),90032
+Wexford,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),87259
+Wexford,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),83308
+Wexford,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),83437
+Wexford,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),86351
+Wexford,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),96421
+Wexford,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),99081
+Wexford,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),102552
+Wexford,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),102069
+Wexford,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),104371
+Wexford,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),116596
+Wexford,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),131749
+Wexford,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),145320
+Wexford,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),149722
+Wexford,Male,1841,Population at Each Census from 1841 to 2016 (Number),97918
+Wexford,Male,1851,Population at Each Census from 1841 to 2016 (Number),86938
+Wexford,Male,1861,Population at Each Census from 1841 to 2016 (Number),69104
+Wexford,Male,1871,Population at Each Census from 1841 to 2016 (Number),64199
+Wexford,Male,1881,Population at Each Census from 1841 to 2016 (Number),60928
+Wexford,Male,1891,Population at Each Census from 1841 to 2016 (Number),54935
+Wexford,Male,1901,Population at Each Census from 1841 to 2016 (Number),51756
+Wexford,Male,1911,Population at Each Census from 1841 to 2016 (Number),51568
+Wexford,Male,1926,Population at Each Census from 1841 to 2016 (Number),48570
+Wexford,Male,1936,Population at Each Census from 1841 to 2016 (Number),48577
+Wexford,Male,1946,Population at Each Census from 1841 to 2016 (Number),46611
+Wexford,Male,1951,Population at Each Census from 1841 to 2016 (Number),45945
+Wexford,Male,1956,Population at Each Census from 1841 to 2016 (Number),44210
+Wexford,Male,1961,Population at Each Census from 1841 to 2016 (Number),42128
+Wexford,Male,1966,Population at Each Census from 1841 to 2016 (Number),42270
+Wexford,Male,1971,Population at Each Census from 1841 to 2016 (Number),43768
+Wexford,Male,1979,Population at Each Census from 1841 to 2016 (Number),48974
+Wexford,Male,1981,Population at Each Census from 1841 to 2016 (Number),50336
+Wexford,Male,1986,Population at Each Census from 1841 to 2016 (Number),51782
+Wexford,Male,1991,Population at Each Census from 1841 to 2016 (Number),51444
+Wexford,Male,1996,Population at Each Census from 1841 to 2016 (Number),52432
+Wexford,Male,2002,Population at Each Census from 1841 to 2016 (Number),58170
+Wexford,Male,2006,Population at Each Census from 1841 to 2016 (Number),66070
+Wexford,Male,2011,Population at Each Census from 1841 to 2016 (Number),71909
+Wexford,Male,2016,Population at Each Census from 1841 to 2016 (Number),73722
+Wexford,Female,1841,Population at Each Census from 1841 to 2016 (Number),104115
+Wexford,Female,1851,Population at Each Census from 1841 to 2016 (Number),93220
+Wexford,Female,1861,Population at Each Census from 1841 to 2016 (Number),74850
+Wexford,Female,1871,Population at Each Census from 1841 to 2016 (Number),68467
+Wexford,Female,1881,Population at Each Census from 1841 to 2016 (Number),62926
+Wexford,Female,1891,Population at Each Census from 1841 to 2016 (Number),56843
+Wexford,Female,1901,Population at Each Census from 1841 to 2016 (Number),52348
+Wexford,Female,1911,Population at Each Census from 1841 to 2016 (Number),50705
+Wexford,Female,1926,Population at Each Census from 1841 to 2016 (Number),47278
+Wexford,Female,1936,Population at Each Census from 1841 to 2016 (Number),45668
+Wexford,Female,1946,Population at Each Census from 1841 to 2016 (Number),45244
+Wexford,Female,1951,Population at Each Census from 1841 to 2016 (Number),44087
+Wexford,Female,1956,Population at Each Census from 1841 to 2016 (Number),43049
+Wexford,Female,1961,Population at Each Census from 1841 to 2016 (Number),41180
+Wexford,Female,1966,Population at Each Census from 1841 to 2016 (Number),41167
+Wexford,Female,1971,Population at Each Census from 1841 to 2016 (Number),42583
+Wexford,Female,1979,Population at Each Census from 1841 to 2016 (Number),47447
+Wexford,Female,1981,Population at Each Census from 1841 to 2016 (Number),48745
+Wexford,Female,1986,Population at Each Census from 1841 to 2016 (Number),50770
+Wexford,Female,1991,Population at Each Census from 1841 to 2016 (Number),50625
+Wexford,Female,1996,Population at Each Census from 1841 to 2016 (Number),51939
+Wexford,Female,2002,Population at Each Census from 1841 to 2016 (Number),58426
+Wexford,Female,2006,Population at Each Census from 1841 to 2016 (Number),65679
+Wexford,Female,2011,Population at Each Census from 1841 to 2016 (Number),73411
+Wexford,Female,2016,Population at Each Census from 1841 to 2016 (Number),76000
+Wicklow,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),126143
+Wicklow,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),98979
+Wicklow,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),86479
+Wicklow,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),78697
+Wicklow,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),70386
+Wicklow,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),62136
+Wicklow,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),60824
+Wicklow,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),60711
+Wicklow,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),57591
+Wicklow,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),58569
+Wicklow,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),60451
+Wicklow,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),62590
+Wicklow,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),59906
+Wicklow,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),58473
+Wicklow,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),60428
+Wicklow,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),66295
+Wicklow,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),83950
+Wicklow,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),87449
+Wicklow,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),94542
+Wicklow,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),97265
+Wicklow,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),102683
+Wicklow,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),114676
+Wicklow,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),126194
+Wicklow,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),136640
+Wicklow,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),142425
+Wicklow,Male,1841,Population at Each Census from 1841 to 2016 (Number),63489
+Wicklow,Male,1851,Population at Each Census from 1841 to 2016 (Number),50230
+Wicklow,Male,1861,Population at Each Census from 1841 to 2016 (Number),44122
+Wicklow,Male,1871,Population at Each Census from 1841 to 2016 (Number),39496
+Wicklow,Male,1881,Population at Each Census from 1841 to 2016 (Number),35101
+Wicklow,Male,1891,Population at Each Census from 1841 to 2016 (Number),31054
+Wicklow,Male,1901,Population at Each Census from 1841 to 2016 (Number),30584
+Wicklow,Male,1911,Population at Each Census from 1841 to 2016 (Number),31113
+Wicklow,Male,1926,Population at Each Census from 1841 to 2016 (Number),28911
+Wicklow,Male,1936,Population at Each Census from 1841 to 2016 (Number),29868
+Wicklow,Male,1946,Population at Each Census from 1841 to 2016 (Number),30152
+Wicklow,Male,1951,Population at Each Census from 1841 to 2016 (Number),31587
+Wicklow,Male,1956,Population at Each Census from 1841 to 2016 (Number),29933
+Wicklow,Male,1961,Population at Each Census from 1841 to 2016 (Number),29150
+Wicklow,Male,1966,Population at Each Census from 1841 to 2016 (Number),30231
+Wicklow,Male,1971,Population at Each Census from 1841 to 2016 (Number),33318
+Wicklow,Male,1979,Population at Each Census from 1841 to 2016 (Number),41969
+Wicklow,Male,1981,Population at Each Census from 1841 to 2016 (Number),43663
+Wicklow,Male,1986,Population at Each Census from 1841 to 2016 (Number),46980
+Wicklow,Male,1991,Population at Each Census from 1841 to 2016 (Number),48076
+Wicklow,Male,1996,Population at Each Census from 1841 to 2016 (Number),50823
+Wicklow,Male,2002,Population at Each Census from 1841 to 2016 (Number),56800
+Wicklow,Male,2006,Population at Each Census from 1841 to 2016 (Number),62905
+Wicklow,Male,2011,Population at Each Census from 1841 to 2016 (Number),67542
+Wicklow,Male,2016,Population at Each Census from 1841 to 2016 (Number),70156
+Wicklow,Female,1841,Population at Each Census from 1841 to 2016 (Number),62654
+Wicklow,Female,1851,Population at Each Census from 1841 to 2016 (Number),48749
+Wicklow,Female,1861,Population at Each Census from 1841 to 2016 (Number),42357
+Wicklow,Female,1871,Population at Each Census from 1841 to 2016 (Number),39201
+Wicklow,Female,1881,Population at Each Census from 1841 to 2016 (Number),35285
+Wicklow,Female,1891,Population at Each Census from 1841 to 2016 (Number),31082
+Wicklow,Female,1901,Population at Each Census from 1841 to 2016 (Number),30240
+Wicklow,Female,1911,Population at Each Census from 1841 to 2016 (Number),29598
+Wicklow,Female,1926,Population at Each Census from 1841 to 2016 (Number),28680
+Wicklow,Female,1936,Population at Each Census from 1841 to 2016 (Number),28701
+Wicklow,Female,1946,Population at Each Census from 1841 to 2016 (Number),30299
+Wicklow,Female,1951,Population at Each Census from 1841 to 2016 (Number),31003
+Wicklow,Female,1956,Population at Each Census from 1841 to 2016 (Number),29973
+Wicklow,Female,1961,Population at Each Census from 1841 to 2016 (Number),29323
+Wicklow,Female,1966,Population at Each Census from 1841 to 2016 (Number),30197
+Wicklow,Female,1971,Population at Each Census from 1841 to 2016 (Number),32977
+Wicklow,Female,1979,Population at Each Census from 1841 to 2016 (Number),41981
+Wicklow,Female,1981,Population at Each Census from 1841 to 2016 (Number),43786
+Wicklow,Female,1986,Population at Each Census from 1841 to 2016 (Number),47562
+Wicklow,Female,1991,Population at Each Census from 1841 to 2016 (Number),49189
+Wicklow,Female,1996,Population at Each Census from 1841 to 2016 (Number),51860
+Wicklow,Female,2002,Population at Each Census from 1841 to 2016 (Number),57876
+Wicklow,Female,2006,Population at Each Census from 1841 to 2016 (Number),63289
+Wicklow,Female,2011,Population at Each Census from 1841 to 2016 (Number),69098
+Wicklow,Female,2016,Population at Each Census from 1841 to 2016 (Number),72269
+Clare,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),286394
+Clare,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),212440
+Clare,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),166305
+Clare,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),147864
+Clare,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),141457
+Clare,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),124483
+Clare,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),112334
+Clare,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),104232
+Clare,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),95064
+Clare,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),89879
+Clare,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),85064
+Clare,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),81329
+Clare,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),77176
+Clare,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),73702
+Clare,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),73597
+Clare,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),75008
+Clare,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),84919
+Clare,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),87567
+Clare,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),91344
+Clare,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),90918
+Clare,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),94006
+Clare,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),103277
+Clare,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),110950
+Clare,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),117196
+Clare,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),118817
+Clare,Male,1841,Population at Each Census from 1841 to 2016 (Number),144109
+Clare,Male,1851,Population at Each Census from 1841 to 2016 (Number),103953
+Clare,Male,1861,Population at Each Census from 1841 to 2016 (Number),82541
+Clare,Male,1871,Population at Each Census from 1841 to 2016 (Number),73442
+Clare,Male,1881,Population at Each Census from 1841 to 2016 (Number),71058
+Clare,Male,1891,Population at Each Census from 1841 to 2016 (Number),63138
+Clare,Male,1901,Population at Each Census from 1841 to 2016 (Number),57386
+Clare,Male,1911,Population at Each Census from 1841 to 2016 (Number),53877
+Clare,Male,1926,Population at Each Census from 1841 to 2016 (Number),50071
+Clare,Male,1936,Population at Each Census from 1841 to 2016 (Number),47957
+Clare,Male,1946,Population at Each Census from 1841 to 2016 (Number),45350
+Clare,Male,1951,Population at Each Census from 1841 to 2016 (Number),43473
+Clare,Male,1956,Population at Each Census from 1841 to 2016 (Number),40868
+Clare,Male,1961,Population at Each Census from 1841 to 2016 (Number),38904
+Clare,Male,1966,Population at Each Census from 1841 to 2016 (Number),38667
+Clare,Male,1971,Population at Each Census from 1841 to 2016 (Number),39002
+Clare,Male,1979,Population at Each Census from 1841 to 2016 (Number),43945
+Clare,Male,1981,Population at Each Census from 1841 to 2016 (Number),45366
+Clare,Male,1986,Population at Each Census from 1841 to 2016 (Number),46913
+Clare,Male,1991,Population at Each Census from 1841 to 2016 (Number),46367
+Clare,Male,1996,Population at Each Census from 1841 to 2016 (Number),47789
+Clare,Male,2002,Population at Each Census from 1841 to 2016 (Number),52063
+Clare,Male,2006,Population at Each Census from 1841 to 2016 (Number),56048
+Clare,Male,2011,Population at Each Census from 1841 to 2016 (Number),58298
+Clare,Male,2016,Population at Each Census from 1841 to 2016 (Number),58785
+Clare,Female,1841,Population at Each Census from 1841 to 2016 (Number),142285
+Clare,Female,1851,Population at Each Census from 1841 to 2016 (Number),108487
+Clare,Female,1861,Population at Each Census from 1841 to 2016 (Number),83764
+Clare,Female,1871,Population at Each Census from 1841 to 2016 (Number),74422
+Clare,Female,1881,Population at Each Census from 1841 to 2016 (Number),70399
+Clare,Female,1891,Population at Each Census from 1841 to 2016 (Number),61345
+Clare,Female,1901,Population at Each Census from 1841 to 2016 (Number),54948
+Clare,Female,1911,Population at Each Census from 1841 to 2016 (Number),50355
+Clare,Female,1926,Population at Each Census from 1841 to 2016 (Number),44993
+Clare,Female,1936,Population at Each Census from 1841 to 2016 (Number),41922
+Clare,Female,1946,Population at Each Census from 1841 to 2016 (Number),39714
+Clare,Female,1951,Population at Each Census from 1841 to 2016 (Number),37856
+Clare,Female,1956,Population at Each Census from 1841 to 2016 (Number),36308
+Clare,Female,1961,Population at Each Census from 1841 to 2016 (Number),34798
+Clare,Female,1966,Population at Each Census from 1841 to 2016 (Number),34930
+Clare,Female,1971,Population at Each Census from 1841 to 2016 (Number),36006
+Clare,Female,1979,Population at Each Census from 1841 to 2016 (Number),40974
+Clare,Female,1981,Population at Each Census from 1841 to 2016 (Number),42201
+Clare,Female,1986,Population at Each Census from 1841 to 2016 (Number),44431
+Clare,Female,1991,Population at Each Census from 1841 to 2016 (Number),44551
+Clare,Female,1996,Population at Each Census from 1841 to 2016 (Number),46217
+Clare,Female,2002,Population at Each Census from 1841 to 2016 (Number),51214
+Clare,Female,2006,Population at Each Census from 1841 to 2016 (Number),54902
+Clare,Female,2011,Population at Each Census from 1841 to 2016 (Number),58898
+Clare,Female,2016,Population at Each Census from 1841 to 2016 (Number),60032
+Cork,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),854118
+Cork,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),649308
+Cork,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),544818
+Cork,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),517076
+Cork,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),495607
+Cork,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),438432
+Cork,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),404611
+Cork,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),392104
+Cork,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),365747
+Cork,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),355957
+Cork,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),343668
+Cork,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),341284
+Cork,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),336663
+Cork,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),330443
+Cork,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),339703
+Cork,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),352883
+Cork,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),396118
+Cork,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),402465
+Cork,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),412735
+Cork,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),410369
+Cork,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),420510
+Cork,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),447829
+Cork,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),481295
+Cork,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),519032
+Cork,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),542868
+Cork,Male,1841,Population at Each Census from 1841 to 2016 (Number),420551
+Cork,Male,1851,Population at Each Census from 1841 to 2016 (Number),318149
+Cork,Male,1861,Population at Each Census from 1841 to 2016 (Number),269637
+Cork,Male,1871,Population at Each Census from 1841 to 2016 (Number),256062
+Cork,Male,1881,Population at Each Census from 1841 to 2016 (Number),246044
+Cork,Male,1891,Population at Each Census from 1841 to 2016 (Number),219988
+Cork,Male,1901,Population at Each Census from 1841 to 2016 (Number),202297
+Cork,Male,1911,Population at Each Census from 1841 to 2016 (Number),197516
+Cork,Male,1926,Population at Each Census from 1841 to 2016 (Number),183192
+Cork,Male,1936,Population at Each Census from 1841 to 2016 (Number),179620
+Cork,Male,1946,Population at Each Census from 1841 to 2016 (Number),171110
+Cork,Male,1951,Population at Each Census from 1841 to 2016 (Number),170865
+Cork,Male,1956,Population at Each Census from 1841 to 2016 (Number),167952
+Cork,Male,1961,Population at Each Census from 1841 to 2016 (Number),164708
+Cork,Male,1966,Population at Each Census from 1841 to 2016 (Number),170010
+Cork,Male,1971,Population at Each Census from 1841 to 2016 (Number),176786
+Cork,Male,1979,Population at Each Census from 1841 to 2016 (Number),199146
+Cork,Male,1981,Population at Each Census from 1841 to 2016 (Number),202388
+Cork,Male,1986,Population at Each Census from 1841 to 2016 (Number),206470
+Cork,Male,1991,Population at Each Census from 1841 to 2016 (Number),204542
+Cork,Male,1996,Population at Each Census from 1841 to 2016 (Number),209177
+Cork,Male,2002,Population at Each Census from 1841 to 2016 (Number),222317
+Cork,Male,2006,Population at Each Census from 1841 to 2016 (Number),240814
+Cork,Male,2011,Population at Each Census from 1841 to 2016 (Number),257470
+Cork,Male,2016,Population at Each Census from 1841 to 2016 (Number),268675
+Cork,Female,1841,Population at Each Census from 1841 to 2016 (Number),433567
+Cork,Female,1851,Population at Each Census from 1841 to 2016 (Number),331159
+Cork,Female,1861,Population at Each Census from 1841 to 2016 (Number),275181
+Cork,Female,1871,Population at Each Census from 1841 to 2016 (Number),261014
+Cork,Female,1881,Population at Each Census from 1841 to 2016 (Number),249563
+Cork,Female,1891,Population at Each Census from 1841 to 2016 (Number),218444
+Cork,Female,1901,Population at Each Census from 1841 to 2016 (Number),202314
+Cork,Female,1911,Population at Each Census from 1841 to 2016 (Number),194588
+Cork,Female,1926,Population at Each Census from 1841 to 2016 (Number),182555
+Cork,Female,1936,Population at Each Census from 1841 to 2016 (Number),176337
+Cork,Female,1946,Population at Each Census from 1841 to 2016 (Number),172558
+Cork,Female,1951,Population at Each Census from 1841 to 2016 (Number),170419
+Cork,Female,1956,Population at Each Census from 1841 to 2016 (Number),168711
+Cork,Female,1961,Population at Each Census from 1841 to 2016 (Number),165735
+Cork,Female,1966,Population at Each Census from 1841 to 2016 (Number),169693
+Cork,Female,1971,Population at Each Census from 1841 to 2016 (Number),176097
+Cork,Female,1979,Population at Each Census from 1841 to 2016 (Number),196972
+Cork,Female,1981,Population at Each Census from 1841 to 2016 (Number),200077
+Cork,Female,1986,Population at Each Census from 1841 to 2016 (Number),206265
+Cork,Female,1991,Population at Each Census from 1841 to 2016 (Number),205827
+Cork,Female,1996,Population at Each Census from 1841 to 2016 (Number),211333
+Cork,Female,2002,Population at Each Census from 1841 to 2016 (Number),225512
+Cork,Female,2006,Population at Each Census from 1841 to 2016 (Number),240481
+Cork,Female,2011,Population at Each Census from 1841 to 2016 (Number),261562
+Cork,Female,2016,Population at Each Census from 1841 to 2016 (Number),274193
+Kerry,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),293880
+Kerry,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),238254
+Kerry,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),201800
+Kerry,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),196586
+Kerry,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),201039
+Kerry,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),179136
+Kerry,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),165726
+Kerry,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),159691
+Kerry,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),149171
+Kerry,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),139834
+Kerry,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),133893
+Kerry,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),126644
+Kerry,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),122072
+Kerry,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),116458
+Kerry,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),112785
+Kerry,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),112772
+Kerry,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),120356
+Kerry,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),122770
+Kerry,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),124159
+Kerry,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),121894
+Kerry,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),126130
+Kerry,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),132527
+Kerry,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),139835
+Kerry,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),145502
+Kerry,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),147707
+Kerry,Male,1841,Population at Each Census from 1841 to 2016 (Number),147307
+Kerry,Male,1851,Population at Each Census from 1841 to 2016 (Number),116511
+Kerry,Male,1861,Population at Each Census from 1841 to 2016 (Number),99999
+Kerry,Male,1871,Population at Each Census from 1841 to 2016 (Number),97913
+Kerry,Male,1881,Population at Each Census from 1841 to 2016 (Number),101208
+Kerry,Male,1891,Population at Each Census from 1841 to 2016 (Number),91017
+Kerry,Male,1901,Population at Each Census from 1841 to 2016 (Number),84427
+Kerry,Male,1911,Population at Each Census from 1841 to 2016 (Number),81474
+Kerry,Male,1926,Population at Each Census from 1841 to 2016 (Number),76863
+Kerry,Male,1936,Population at Each Census from 1841 to 2016 (Number),73503
+Kerry,Male,1946,Population at Each Census from 1841 to 2016 (Number),70113
+Kerry,Male,1951,Population at Each Census from 1841 to 2016 (Number),66507
+Kerry,Male,1956,Population at Each Census from 1841 to 2016 (Number),63965
+Kerry,Male,1961,Population at Each Census from 1841 to 2016 (Number),60838
+Kerry,Male,1966,Population at Each Census from 1841 to 2016 (Number),58674
+Kerry,Male,1971,Population at Each Census from 1841 to 2016 (Number),58404
+Kerry,Male,1979,Population at Each Census from 1841 to 2016 (Number),62185
+Kerry,Male,1981,Population at Each Census from 1841 to 2016 (Number),63492
+Kerry,Male,1986,Population at Each Census from 1841 to 2016 (Number),63293
+Kerry,Male,1991,Population at Each Census from 1841 to 2016 (Number),61932
+Kerry,Male,1996,Population at Each Census from 1841 to 2016 (Number),63801
+Kerry,Male,2002,Population at Each Census from 1841 to 2016 (Number),66572
+Kerry,Male,2006,Population at Each Census from 1841 to 2016 (Number),70641
+Kerry,Male,2011,Population at Each Census from 1841 to 2016 (Number),72629
+Kerry,Male,2016,Population at Each Census from 1841 to 2016 (Number),73055
+Kerry,Female,1841,Population at Each Census from 1841 to 2016 (Number),146573
+Kerry,Female,1851,Population at Each Census from 1841 to 2016 (Number),121743
+Kerry,Female,1861,Population at Each Census from 1841 to 2016 (Number),101801
+Kerry,Female,1871,Population at Each Census from 1841 to 2016 (Number),98673
+Kerry,Female,1881,Population at Each Census from 1841 to 2016 (Number),99831
+Kerry,Female,1891,Population at Each Census from 1841 to 2016 (Number),88119
+Kerry,Female,1901,Population at Each Census from 1841 to 2016 (Number),81299
+Kerry,Female,1911,Population at Each Census from 1841 to 2016 (Number),78217
+Kerry,Female,1926,Population at Each Census from 1841 to 2016 (Number),72308
+Kerry,Female,1936,Population at Each Census from 1841 to 2016 (Number),66331
+Kerry,Female,1946,Population at Each Census from 1841 to 2016 (Number),63780
+Kerry,Female,1951,Population at Each Census from 1841 to 2016 (Number),60137
+Kerry,Female,1956,Population at Each Census from 1841 to 2016 (Number),58107
+Kerry,Female,1961,Population at Each Census from 1841 to 2016 (Number),55620
+Kerry,Female,1966,Population at Each Census from 1841 to 2016 (Number),54111
+Kerry,Female,1971,Population at Each Census from 1841 to 2016 (Number),54368
+Kerry,Female,1979,Population at Each Census from 1841 to 2016 (Number),58171
+Kerry,Female,1981,Population at Each Census from 1841 to 2016 (Number),59278
+Kerry,Female,1986,Population at Each Census from 1841 to 2016 (Number),60866
+Kerry,Female,1991,Population at Each Census from 1841 to 2016 (Number),59962
+Kerry,Female,1996,Population at Each Census from 1841 to 2016 (Number),62329
+Kerry,Female,2002,Population at Each Census from 1841 to 2016 (Number),65955
+Kerry,Female,2006,Population at Each Census from 1841 to 2016 (Number),69194
+Kerry,Female,2011,Population at Each Census from 1841 to 2016 (Number),72873
+Kerry,Female,2016,Population at Each Census from 1841 to 2016 (Number),74652
+Limerick,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),330029
+Limerick,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),262132
+Limerick,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),217277
+Limerick,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),191936
+Limerick,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),180632
+Limerick,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),158912
+Limerick,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),146098
+Limerick,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),143069
+Limerick,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),140343
+Limerick,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),141153
+Limerick,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),142559
+Limerick,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),141239
+Limerick,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),137881
+Limerick,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),133339
+Limerick,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),137357
+Limerick,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),140459
+Limerick,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),157407
+Limerick,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),161661
+Limerick,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),164569
+Limerick,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),161956
+Limerick,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),165042
+Limerick,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),175304
+Limerick,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),184055
+Limerick,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),191809
+Limerick,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),194899
+Limerick,Male,1841,Population at Each Census from 1841 to 2016 (Number),161997
+Limerick,Male,1851,Population at Each Census from 1841 to 2016 (Number),127387
+Limerick,Male,1861,Population at Each Census from 1841 to 2016 (Number),105712
+Limerick,Male,1871,Population at Each Census from 1841 to 2016 (Number),93112
+Limerick,Male,1881,Population at Each Census from 1841 to 2016 (Number),88311
+Limerick,Male,1891,Population at Each Census from 1841 to 2016 (Number),78607
+Limerick,Male,1901,Population at Each Census from 1841 to 2016 (Number),72456
+Limerick,Male,1911,Population at Each Census from 1841 to 2016 (Number),72229
+Limerick,Male,1926,Population at Each Census from 1841 to 2016 (Number),71172
+Limerick,Male,1936,Population at Each Census from 1841 to 2016 (Number),72407
+Limerick,Male,1946,Population at Each Census from 1841 to 2016 (Number),72039
+Limerick,Male,1951,Population at Each Census from 1841 to 2016 (Number),71691
+Limerick,Male,1956,Population at Each Census from 1841 to 2016 (Number),69622
+Limerick,Male,1961,Population at Each Census from 1841 to 2016 (Number),67173
+Limerick,Male,1966,Population at Each Census from 1841 to 2016 (Number),69135
+Limerick,Male,1971,Population at Each Census from 1841 to 2016 (Number),70786
+Limerick,Male,1979,Population at Each Census from 1841 to 2016 (Number),79302
+Limerick,Male,1981,Population at Each Census from 1841 to 2016 (Number),81595
+Limerick,Male,1986,Population at Each Census from 1841 to 2016 (Number),82686
+Limerick,Male,1991,Population at Each Census from 1841 to 2016 (Number),81094
+Limerick,Male,1996,Population at Each Census from 1841 to 2016 (Number),82546
+Limerick,Male,2002,Population at Each Census from 1841 to 2016 (Number),87631
+Limerick,Male,2006,Population at Each Census from 1841 to 2016 (Number),92680
+Limerick,Male,2011,Population at Each Census from 1841 to 2016 (Number),95815
+Limerick,Male,2016,Population at Each Census from 1841 to 2016 (Number),97340
+Limerick,Female,1841,Population at Each Census from 1841 to 2016 (Number),168032
+Limerick,Female,1851,Population at Each Census from 1841 to 2016 (Number),134745
+Limerick,Female,1861,Population at Each Census from 1841 to 2016 (Number),111565
+Limerick,Female,1871,Population at Each Census from 1841 to 2016 (Number),98824
+Limerick,Female,1881,Population at Each Census from 1841 to 2016 (Number),92321
+Limerick,Female,1891,Population at Each Census from 1841 to 2016 (Number),80305
+Limerick,Female,1901,Population at Each Census from 1841 to 2016 (Number),73642
+Limerick,Female,1911,Population at Each Census from 1841 to 2016 (Number),70840
+Limerick,Female,1926,Population at Each Census from 1841 to 2016 (Number),69171
+Limerick,Female,1936,Population at Each Census from 1841 to 2016 (Number),68746
+Limerick,Female,1946,Population at Each Census from 1841 to 2016 (Number),70520
+Limerick,Female,1951,Population at Each Census from 1841 to 2016 (Number),69548
+Limerick,Female,1956,Population at Each Census from 1841 to 2016 (Number),68259
+Limerick,Female,1961,Population at Each Census from 1841 to 2016 (Number),66166
+Limerick,Female,1966,Population at Each Census from 1841 to 2016 (Number),68222
+Limerick,Female,1971,Population at Each Census from 1841 to 2016 (Number),69673
+Limerick,Female,1979,Population at Each Census from 1841 to 2016 (Number),78105
+Limerick,Female,1981,Population at Each Census from 1841 to 2016 (Number),80066
+Limerick,Female,1986,Population at Each Census from 1841 to 2016 (Number),81883
+Limerick,Female,1991,Population at Each Census from 1841 to 2016 (Number),80862
+Limerick,Female,1996,Population at Each Census from 1841 to 2016 (Number),82496
+Limerick,Female,2002,Population at Each Census from 1841 to 2016 (Number),87673
+Limerick,Female,2006,Population at Each Census from 1841 to 2016 (Number),91375
+Limerick,Female,2011,Population at Each Census from 1841 to 2016 (Number),95994
+Limerick,Female,2016,Population at Each Census from 1841 to 2016 (Number),97559
+Tipperary,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),435553
+Tipperary,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),331567
+Tipperary,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),249106
+Tipperary,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),216713
+Tipperary,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),199612
+Tipperary,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),173188
+Tipperary,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),160232
+Tipperary,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),152433
+Tipperary,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),141015
+Tipperary,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),137835
+Tipperary,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),136014
+Tipperary,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),133313
+Tipperary,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),129415
+Tipperary,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),123822
+Tipperary,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),122812
+Tipperary,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),123565
+Tipperary,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),133741
+Tipperary,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),135261
+Tipperary,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),136619
+Tipperary,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),132772
+Tipperary,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),133535
+Tipperary,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),140131
+Tipperary,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),149244
+Tipperary,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),158754
+Tipperary,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),159553
+Tipperary,Male,1841,Population at Each Census from 1841 to 2016 (Number),216650
+Tipperary,Male,1851,Population at Each Census from 1841 to 2016 (Number),160024
+Tipperary,Male,1861,Population at Each Census from 1841 to 2016 (Number),122483
+Tipperary,Male,1871,Population at Each Census from 1841 to 2016 (Number),106499
+Tipperary,Male,1881,Population at Each Census from 1841 to 2016 (Number),98755
+Tipperary,Male,1891,Population at Each Census from 1841 to 2016 (Number),86807
+Tipperary,Male,1901,Population at Each Census from 1841 to 2016 (Number),81399
+Tipperary,Male,1911,Population at Each Census from 1841 to 2016 (Number),78584
+Tipperary,Male,1926,Population at Each Census from 1841 to 2016 (Number),72904
+Tipperary,Male,1936,Population at Each Census from 1841 to 2016 (Number),72397
+Tipperary,Male,1946,Population at Each Census from 1841 to 2016 (Number),70999
+Tipperary,Male,1951,Population at Each Census from 1841 to 2016 (Number),69866
+Tipperary,Male,1956,Population at Each Census from 1841 to 2016 (Number),67398
+Tipperary,Male,1961,Population at Each Census from 1841 to 2016 (Number),64141
+Tipperary,Male,1966,Population at Each Census from 1841 to 2016 (Number),63416
+Tipperary,Male,1971,Population at Each Census from 1841 to 2016 (Number),63523
+Tipperary,Male,1979,Population at Each Census from 1841 to 2016 (Number),68877
+Tipperary,Male,1981,Population at Each Census from 1841 to 2016 (Number),69503
+Tipperary,Male,1986,Population at Each Census from 1841 to 2016 (Number),69728
+Tipperary,Male,1991,Population at Each Census from 1841 to 2016 (Number),67422
+Tipperary,Male,1996,Population at Each Census from 1841 to 2016 (Number),67602
+Tipperary,Male,2002,Population at Each Census from 1841 to 2016 (Number),70863
+Tipperary,Male,2006,Population at Each Census from 1841 to 2016 (Number),75818
+Tipperary,Male,2011,Population at Each Census from 1841 to 2016 (Number),79584
+Tipperary,Male,2016,Population at Each Census from 1841 to 2016 (Number),79668
+Tipperary,Female,1841,Population at Each Census from 1841 to 2016 (Number),218903
+Tipperary,Female,1851,Population at Each Census from 1841 to 2016 (Number),171543
+Tipperary,Female,1861,Population at Each Census from 1841 to 2016 (Number),126623
+Tipperary,Female,1871,Population at Each Census from 1841 to 2016 (Number),110214
+Tipperary,Female,1881,Population at Each Census from 1841 to 2016 (Number),100857
+Tipperary,Female,1891,Population at Each Census from 1841 to 2016 (Number),86381
+Tipperary,Female,1901,Population at Each Census from 1841 to 2016 (Number),78833
+Tipperary,Female,1911,Population at Each Census from 1841 to 2016 (Number),73849
+Tipperary,Female,1926,Population at Each Census from 1841 to 2016 (Number),68111
+Tipperary,Female,1936,Population at Each Census from 1841 to 2016 (Number),65438
+Tipperary,Female,1946,Population at Each Census from 1841 to 2016 (Number),65015
+Tipperary,Female,1951,Population at Each Census from 1841 to 2016 (Number),63447
+Tipperary,Female,1956,Population at Each Census from 1841 to 2016 (Number),62017
+Tipperary,Female,1961,Population at Each Census from 1841 to 2016 (Number),59681
+Tipperary,Female,1966,Population at Each Census from 1841 to 2016 (Number),59396
+Tipperary,Female,1971,Population at Each Census from 1841 to 2016 (Number),60042
+Tipperary,Female,1979,Population at Each Census from 1841 to 2016 (Number),64864
+Tipperary,Female,1981,Population at Each Census from 1841 to 2016 (Number),65758
+Tipperary,Female,1986,Population at Each Census from 1841 to 2016 (Number),66891
+Tipperary,Female,1991,Population at Each Census from 1841 to 2016 (Number),65350
+Tipperary,Female,1996,Population at Each Census from 1841 to 2016 (Number),65933
+Tipperary,Female,2002,Population at Each Census from 1841 to 2016 (Number),69268
+Tipperary,Female,2006,Population at Each Census from 1841 to 2016 (Number),73426
+Tipperary,Female,2011,Population at Each Census from 1841 to 2016 (Number),79170
+Tipperary,Female,2016,Population at Each Census from 1841 to 2016 (Number),79885
+Waterford,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),196187
+Waterford,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),164035
+Waterford,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),134252
+Waterford,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),123310
+Waterford,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),112768
+Waterford,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),98251
+Waterford,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),87187
+Waterford,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),83966
+Waterford,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),78562
+Waterford,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),77614
+Waterford,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),76108
+Waterford,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),75061
+Waterford,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),74031
+Waterford,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),71439
+Waterford,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),73080
+Waterford,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),77315
+Waterford,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),87278
+Waterford,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),88591
+Waterford,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),91151
+Waterford,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),91624
+Waterford,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),94680
+Waterford,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),101546
+Waterford,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),107961
+Waterford,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),113795
+Waterford,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),116176
+Waterford,Male,1841,Population at Each Census from 1841 to 2016 (Number),95576
+Waterford,Male,1851,Population at Each Census from 1841 to 2016 (Number),78955
+Waterford,Male,1861,Population at Each Census from 1841 to 2016 (Number),64310
+Waterford,Male,1871,Population at Each Census from 1841 to 2016 (Number),59078
+Waterford,Male,1881,Population at Each Census from 1841 to 2016 (Number),54618
+Waterford,Male,1891,Population at Each Census from 1841 to 2016 (Number),48054
+Waterford,Male,1901,Population at Each Census from 1841 to 2016 (Number),43005
+Waterford,Male,1911,Population at Each Census from 1841 to 2016 (Number),42450
+Waterford,Male,1926,Population at Each Census from 1841 to 2016 (Number),39426
+Waterford,Male,1936,Population at Each Census from 1841 to 2016 (Number),39528
+Waterford,Male,1946,Population at Each Census from 1841 to 2016 (Number),38087
+Waterford,Male,1951,Population at Each Census from 1841 to 2016 (Number),37963
+Waterford,Male,1956,Population at Each Census from 1841 to 2016 (Number),36977
+Waterford,Male,1961,Population at Each Census from 1841 to 2016 (Number),35528
+Waterford,Male,1966,Population at Each Census from 1841 to 2016 (Number),36466
+Waterford,Male,1971,Population at Each Census from 1841 to 2016 (Number),38770
+Waterford,Male,1979,Population at Each Census from 1841 to 2016 (Number),43956
+Waterford,Male,1981,Population at Each Census from 1841 to 2016 (Number),44513
+Waterford,Male,1986,Population at Each Census from 1841 to 2016 (Number),45618
+Waterford,Male,1991,Population at Each Census from 1841 to 2016 (Number),45738
+Waterford,Male,1996,Population at Each Census from 1841 to 2016 (Number),47302
+Waterford,Male,2002,Population at Each Census from 1841 to 2016 (Number),50672
+Waterford,Male,2006,Population at Each Census from 1841 to 2016 (Number),53932
+Waterford,Male,2011,Population at Each Census from 1841 to 2016 (Number),56464
+Waterford,Male,2016,Population at Each Census from 1841 to 2016 (Number),57651
+Waterford,Female,1841,Population at Each Census from 1841 to 2016 (Number),100611
+Waterford,Female,1851,Population at Each Census from 1841 to 2016 (Number),85080
+Waterford,Female,1861,Population at Each Census from 1841 to 2016 (Number),69942
+Waterford,Female,1871,Population at Each Census from 1841 to 2016 (Number),64232
+Waterford,Female,1881,Population at Each Census from 1841 to 2016 (Number),58150
+Waterford,Female,1891,Population at Each Census from 1841 to 2016 (Number),50197
+Waterford,Female,1901,Population at Each Census from 1841 to 2016 (Number),44182
+Waterford,Female,1911,Population at Each Census from 1841 to 2016 (Number),41516
+Waterford,Female,1926,Population at Each Census from 1841 to 2016 (Number),39136
+Waterford,Female,1936,Population at Each Census from 1841 to 2016 (Number),38086
+Waterford,Female,1946,Population at Each Census from 1841 to 2016 (Number),38021
+Waterford,Female,1951,Population at Each Census from 1841 to 2016 (Number),37098
+Waterford,Female,1956,Population at Each Census from 1841 to 2016 (Number),37054
+Waterford,Female,1961,Population at Each Census from 1841 to 2016 (Number),35911
+Waterford,Female,1966,Population at Each Census from 1841 to 2016 (Number),36614
+Waterford,Female,1971,Population at Each Census from 1841 to 2016 (Number),38545
+Waterford,Female,1979,Population at Each Census from 1841 to 2016 (Number),43322
+Waterford,Female,1981,Population at Each Census from 1841 to 2016 (Number),44078
+Waterford,Female,1986,Population at Each Census from 1841 to 2016 (Number),45533
+Waterford,Female,1991,Population at Each Census from 1841 to 2016 (Number),45886
+Waterford,Female,1996,Population at Each Census from 1841 to 2016 (Number),47378
+Waterford,Female,2002,Population at Each Census from 1841 to 2016 (Number),50874
+Waterford,Female,2006,Population at Each Census from 1841 to 2016 (Number),54029
+Waterford,Female,2011,Population at Each Census from 1841 to 2016 (Number),57331
+Waterford,Female,2016,Population at Each Census from 1841 to 2016 (Number),58525
+Galway,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),440198
+Galway,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),321684
+Galway,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),271478
+Galway,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),248458
+Galway,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),242005
+Galway,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),214712
+Galway,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),192549
+Galway,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),182224
+Galway,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),169366
+Galway,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),168198
+Galway,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),165201
+Galway,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),160204
+Galway,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),155553
+Galway,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),149887
+Galway,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),148340
+Galway,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),149223
+Galway,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),167838
+Galway,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),172018
+Galway,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),178552
+Galway,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),180364
+Galway,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),188854
+Galway,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),209077
+Galway,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),231670
+Galway,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),250653
+Galway,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),258058
+Galway,Male,1841,Population at Each Census from 1841 to 2016 (Number),219564
+Galway,Male,1851,Population at Each Census from 1841 to 2016 (Number),157135
+Galway,Male,1861,Population at Each Census from 1841 to 2016 (Number),134057
+Galway,Male,1871,Population at Each Census from 1841 to 2016 (Number),122496
+Galway,Male,1881,Population at Each Census from 1841 to 2016 (Number),120609
+Galway,Male,1891,Population at Each Census from 1841 to 2016 (Number),108283
+Galway,Male,1901,Population at Each Census from 1841 to 2016 (Number),97923
+Galway,Male,1911,Population at Each Census from 1841 to 2016 (Number),94403
+Galway,Male,1926,Population at Each Census from 1841 to 2016 (Number),88481
+Galway,Male,1936,Population at Each Census from 1841 to 2016 (Number),89170
+Galway,Male,1946,Population at Each Census from 1841 to 2016 (Number),87435
+Galway,Male,1951,Population at Each Census from 1841 to 2016 (Number),85141
+Galway,Male,1956,Population at Each Census from 1841 to 2016 (Number),82223
+Galway,Male,1961,Population at Each Census from 1841 to 2016 (Number),78993
+Galway,Male,1966,Population at Each Census from 1841 to 2016 (Number),77696
+Galway,Male,1971,Population at Each Census from 1841 to 2016 (Number),77842
+Galway,Male,1979,Population at Each Census from 1841 to 2016 (Number),86528
+Galway,Male,1981,Population at Each Census from 1841 to 2016 (Number),88330
+Galway,Male,1986,Population at Each Census from 1841 to 2016 (Number),90625
+Galway,Male,1991,Population at Each Census from 1841 to 2016 (Number),91005
+Galway,Male,1996,Population at Each Census from 1841 to 2016 (Number),94529
+Galway,Male,2002,Population at Each Census from 1841 to 2016 (Number),104367
+Galway,Male,2006,Population at Each Census from 1841 to 2016 (Number),116476
+Galway,Male,2011,Population at Each Census from 1841 to 2016 (Number),124758
+Galway,Male,2016,Population at Each Census from 1841 to 2016 (Number),127663
+Galway,Female,1841,Population at Each Census from 1841 to 2016 (Number),220634
+Galway,Female,1851,Population at Each Census from 1841 to 2016 (Number),164549
+Galway,Female,1861,Population at Each Census from 1841 to 2016 (Number),137421
+Galway,Female,1871,Population at Each Census from 1841 to 2016 (Number),125962
+Galway,Female,1881,Population at Each Census from 1841 to 2016 (Number),121396
+Galway,Female,1891,Population at Each Census from 1841 to 2016 (Number),106429
+Galway,Female,1901,Population at Each Census from 1841 to 2016 (Number),94626
+Galway,Female,1911,Population at Each Census from 1841 to 2016 (Number),87821
+Galway,Female,1926,Population at Each Census from 1841 to 2016 (Number),80885
+Galway,Female,1936,Population at Each Census from 1841 to 2016 (Number),79028
+Galway,Female,1946,Population at Each Census from 1841 to 2016 (Number),77766
+Galway,Female,1951,Population at Each Census from 1841 to 2016 (Number),75063
+Galway,Female,1956,Population at Each Census from 1841 to 2016 (Number),73330
+Galway,Female,1961,Population at Each Census from 1841 to 2016 (Number),70894
+Galway,Female,1966,Population at Each Census from 1841 to 2016 (Number),70644
+Galway,Female,1971,Population at Each Census from 1841 to 2016 (Number),71381
+Galway,Female,1979,Population at Each Census from 1841 to 2016 (Number),81310
+Galway,Female,1981,Population at Each Census from 1841 to 2016 (Number),83688
+Galway,Female,1986,Population at Each Census from 1841 to 2016 (Number),87927
+Galway,Female,1991,Population at Each Census from 1841 to 2016 (Number),89359
+Galway,Female,1996,Population at Each Census from 1841 to 2016 (Number),94325
+Galway,Female,2002,Population at Each Census from 1841 to 2016 (Number),104710
+Galway,Female,2006,Population at Each Census from 1841 to 2016 (Number),115194
+Galway,Female,2011,Population at Each Census from 1841 to 2016 (Number),125895
+Galway,Female,2016,Population at Each Census from 1841 to 2016 (Number),130395
+Leitrim,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),155297
+Leitrim,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),111897
+Leitrim,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),104744
+Leitrim,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),95562
+Leitrim,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),90372
+Leitrim,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),78618
+Leitrim,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),69343
+Leitrim,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),63582
+Leitrim,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),55907
+Leitrim,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),50908
+Leitrim,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),44591
+Leitrim,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),41209
+Leitrim,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),37056
+Leitrim,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),33470
+Leitrim,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),30572
+Leitrim,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),28360
+Leitrim,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),27844
+Leitrim,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),27609
+Leitrim,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),27035
+Leitrim,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),25301
+Leitrim,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),25057
+Leitrim,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),25799
+Leitrim,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),28950
+Leitrim,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),31798
+Leitrim,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),32044
+Leitrim,Male,1841,Population at Each Census from 1841 to 2016 (Number),77501
+Leitrim,Male,1851,Population at Each Census from 1841 to 2016 (Number),56111
+Leitrim,Male,1861,Population at Each Census from 1841 to 2016 (Number),52562
+Leitrim,Male,1871,Population at Each Census from 1841 to 2016 (Number),47724
+Leitrim,Male,1881,Population at Each Census from 1841 to 2016 (Number),45190
+Leitrim,Male,1891,Population at Each Census from 1841 to 2016 (Number),39715
+Leitrim,Male,1901,Population at Each Census from 1841 to 2016 (Number),35098
+Leitrim,Male,1911,Population at Each Census from 1841 to 2016 (Number),32759
+Leitrim,Male,1926,Population at Each Census from 1841 to 2016 (Number),29247
+Leitrim,Male,1936,Population at Each Census from 1841 to 2016 (Number),27337
+Leitrim,Male,1946,Population at Each Census from 1841 to 2016 (Number),24065
+Leitrim,Male,1951,Population at Each Census from 1841 to 2016 (Number),22374
+Leitrim,Male,1956,Population at Each Census from 1841 to 2016 (Number),19986
+Leitrim,Male,1961,Population at Each Census from 1841 to 2016 (Number),18031
+Leitrim,Male,1966,Population at Each Census from 1841 to 2016 (Number),16444
+Leitrim,Male,1971,Population at Each Census from 1841 to 2016 (Number),15269
+Leitrim,Male,1979,Population at Each Census from 1841 to 2016 (Number),14878
+Leitrim,Male,1981,Population at Each Census from 1841 to 2016 (Number),14699
+Leitrim,Male,1986,Population at Each Census from 1841 to 2016 (Number),14205
+Leitrim,Male,1991,Population at Each Census from 1841 to 2016 (Number),13203
+Leitrim,Male,1996,Population at Each Census from 1841 to 2016 (Number),13044
+Leitrim,Male,2002,Population at Each Census from 1841 to 2016 (Number),13324
+Leitrim,Male,2006,Population at Each Census from 1841 to 2016 (Number),14903
+Leitrim,Male,2011,Population at Each Census from 1841 to 2016 (Number),16144
+Leitrim,Male,2016,Population at Each Census from 1841 to 2016 (Number),16064
+Leitrim,Female,1841,Population at Each Census from 1841 to 2016 (Number),77796
+Leitrim,Female,1851,Population at Each Census from 1841 to 2016 (Number),55786
+Leitrim,Female,1861,Population at Each Census from 1841 to 2016 (Number),52182
+Leitrim,Female,1871,Population at Each Census from 1841 to 2016 (Number),47838
+Leitrim,Female,1881,Population at Each Census from 1841 to 2016 (Number),45182
+Leitrim,Female,1891,Population at Each Census from 1841 to 2016 (Number),38903
+Leitrim,Female,1901,Population at Each Census from 1841 to 2016 (Number),34245
+Leitrim,Female,1911,Population at Each Census from 1841 to 2016 (Number),30823
+Leitrim,Female,1926,Population at Each Census from 1841 to 2016 (Number),26660
+Leitrim,Female,1936,Population at Each Census from 1841 to 2016 (Number),23571
+Leitrim,Female,1946,Population at Each Census from 1841 to 2016 (Number),20526
+Leitrim,Female,1951,Population at Each Census from 1841 to 2016 (Number),18835
+Leitrim,Female,1956,Population at Each Census from 1841 to 2016 (Number),17070
+Leitrim,Female,1961,Population at Each Census from 1841 to 2016 (Number),15439
+Leitrim,Female,1966,Population at Each Census from 1841 to 2016 (Number),14128
+Leitrim,Female,1971,Population at Each Census from 1841 to 2016 (Number),13091
+Leitrim,Female,1979,Population at Each Census from 1841 to 2016 (Number),12966
+Leitrim,Female,1981,Population at Each Census from 1841 to 2016 (Number),12910
+Leitrim,Female,1986,Population at Each Census from 1841 to 2016 (Number),12830
+Leitrim,Female,1991,Population at Each Census from 1841 to 2016 (Number),12098
+Leitrim,Female,1996,Population at Each Census from 1841 to 2016 (Number),12013
+Leitrim,Female,2002,Population at Each Census from 1841 to 2016 (Number),12475
+Leitrim,Female,2006,Population at Each Census from 1841 to 2016 (Number),14047
+Leitrim,Female,2011,Population at Each Census from 1841 to 2016 (Number),15654
+Leitrim,Female,2016,Population at Each Census from 1841 to 2016 (Number),15980
+Mayo,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),388887
+Mayo,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),274499
+Mayo,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),254796
+Mayo,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),246030
+Mayo,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),245212
+Mayo,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),219034
+Mayo,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),199166
+Mayo,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),192177
+Mayo,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),172690
+Mayo,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),161349
+Mayo,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),148120
+Mayo,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),141867
+Mayo,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),133052
+Mayo,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),123330
+Mayo,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),115547
+Mayo,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),109525
+Mayo,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),114019
+Mayo,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),114766
+Mayo,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),115184
+Mayo,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),110713
+Mayo,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),111524
+Mayo,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),117446
+Mayo,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),123839
+Mayo,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),130638
+Mayo,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),130507
+Mayo,Male,1841,Population at Each Census from 1841 to 2016 (Number),194198
+Mayo,Male,1851,Population at Each Census from 1841 to 2016 (Number),133264
+Mayo,Male,1861,Population at Each Census from 1841 to 2016 (Number),125636
+Mayo,Male,1871,Population at Each Census from 1841 to 2016 (Number),120877
+Mayo,Male,1881,Population at Each Census from 1841 to 2016 (Number),119421
+Mayo,Male,1891,Population at Each Census from 1841 to 2016 (Number),107498
+Mayo,Male,1901,Population at Each Census from 1841 to 2016 (Number),97564
+Mayo,Male,1911,Population at Each Census from 1841 to 2016 (Number),96345
+Mayo,Male,1926,Population at Each Census from 1841 to 2016 (Number),86778
+Mayo,Male,1936,Population at Each Census from 1841 to 2016 (Number),83213
+Mayo,Male,1946,Population at Each Census from 1841 to 2016 (Number),75073
+Mayo,Male,1951,Population at Each Census from 1841 to 2016 (Number),73345
+Mayo,Male,1956,Population at Each Census from 1841 to 2016 (Number),68879
+Mayo,Male,1961,Population at Each Census from 1841 to 2016 (Number),63844
+Mayo,Male,1966,Population at Each Census from 1841 to 2016 (Number),59829
+Mayo,Male,1971,Population at Each Census from 1841 to 2016 (Number),56402
+Mayo,Male,1979,Population at Each Census from 1841 to 2016 (Number),58489
+Mayo,Male,1981,Population at Each Census from 1841 to 2016 (Number),58987
+Mayo,Male,1986,Population at Each Census from 1841 to 2016 (Number),58729
+Mayo,Male,1991,Population at Each Census from 1841 to 2016 (Number),55981
+Mayo,Male,1996,Population at Each Census from 1841 to 2016 (Number),56371
+Mayo,Male,2002,Population at Each Census from 1841 to 2016 (Number),59149
+Mayo,Male,2006,Population at Each Census from 1841 to 2016 (Number),62636
+Mayo,Male,2011,Population at Each Census from 1841 to 2016 (Number),65420
+Mayo,Male,2016,Population at Each Census from 1841 to 2016 (Number),65047
+Mayo,Female,1841,Population at Each Census from 1841 to 2016 (Number),194689
+Mayo,Female,1851,Population at Each Census from 1841 to 2016 (Number),141235
+Mayo,Female,1861,Population at Each Census from 1841 to 2016 (Number),129160
+Mayo,Female,1871,Population at Each Census from 1841 to 2016 (Number),125153
+Mayo,Female,1881,Population at Each Census from 1841 to 2016 (Number),125791
+Mayo,Female,1891,Population at Each Census from 1841 to 2016 (Number),111536
+Mayo,Female,1901,Population at Each Census from 1841 to 2016 (Number),101602
+Mayo,Female,1911,Population at Each Census from 1841 to 2016 (Number),95832
+Mayo,Female,1926,Population at Each Census from 1841 to 2016 (Number),85912
+Mayo,Female,1936,Population at Each Census from 1841 to 2016 (Number),78136
+Mayo,Female,1946,Population at Each Census from 1841 to 2016 (Number),73047
+Mayo,Female,1951,Population at Each Census from 1841 to 2016 (Number),68522
+Mayo,Female,1956,Population at Each Census from 1841 to 2016 (Number),64173
+Mayo,Female,1961,Population at Each Census from 1841 to 2016 (Number),59486
+Mayo,Female,1966,Population at Each Census from 1841 to 2016 (Number),55718
+Mayo,Female,1971,Population at Each Census from 1841 to 2016 (Number),53123
+Mayo,Female,1979,Population at Each Census from 1841 to 2016 (Number),55530
+Mayo,Female,1981,Population at Each Census from 1841 to 2016 (Number),55779
+Mayo,Female,1986,Population at Each Census from 1841 to 2016 (Number),56455
+Mayo,Female,1991,Population at Each Census from 1841 to 2016 (Number),54732
+Mayo,Female,1996,Population at Each Census from 1841 to 2016 (Number),55153
+Mayo,Female,2002,Population at Each Census from 1841 to 2016 (Number),58297
+Mayo,Female,2006,Population at Each Census from 1841 to 2016 (Number),61203
+Mayo,Female,2011,Population at Each Census from 1841 to 2016 (Number),65218
+Mayo,Female,2016,Population at Each Census from 1841 to 2016 (Number),65460
+Roscommon,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),253591
+Roscommon,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),173436
+Roscommon,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),157272
+Roscommon,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),140670
+Roscommon,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),132490
+Roscommon,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),114397
+Roscommon,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),101791
+Roscommon,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),93956
+Roscommon,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),83556
+Roscommon,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),77566
+Roscommon,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),72510
+Roscommon,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),68102
+Roscommon,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),63710
+Roscommon,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),59217
+Roscommon,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),56228
+Roscommon,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),53519
+Roscommon,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),54189
+Roscommon,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),54543
+Roscommon,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),54592
+Roscommon,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),51897
+Roscommon,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),51975
+Roscommon,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),53774
+Roscommon,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),58768
+Roscommon,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),64065
+Roscommon,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),64544
+Roscommon,Male,1841,Population at Each Census from 1841 to 2016 (Number),127016
+Roscommon,Male,1851,Population at Each Census from 1841 to 2016 (Number),86411
+Roscommon,Male,1861,Population at Each Census from 1841 to 2016 (Number),79841
+Roscommon,Male,1871,Population at Each Census from 1841 to 2016 (Number),70647
+Roscommon,Male,1881,Population at Each Census from 1841 to 2016 (Number),66657
+Roscommon,Male,1891,Population at Each Census from 1841 to 2016 (Number),58000
+Roscommon,Male,1901,Population at Each Census from 1841 to 2016 (Number),51233
+Roscommon,Male,1911,Population at Each Census from 1841 to 2016 (Number),48522
+Roscommon,Male,1926,Population at Each Census from 1841 to 2016 (Number),43281
+Roscommon,Male,1936,Population at Each Census from 1841 to 2016 (Number),41308
+Roscommon,Male,1946,Population at Each Census from 1841 to 2016 (Number),38845
+Roscommon,Male,1951,Population at Each Census from 1841 to 2016 (Number),36626
+Roscommon,Male,1956,Population at Each Census from 1841 to 2016 (Number),34078
+Roscommon,Male,1961,Population at Each Census from 1841 to 2016 (Number),31477
+Roscommon,Male,1966,Population at Each Census from 1841 to 2016 (Number),29782
+Roscommon,Male,1971,Population at Each Census from 1841 to 2016 (Number),28294
+Roscommon,Male,1979,Population at Each Census from 1841 to 2016 (Number),28475
+Roscommon,Male,1981,Population at Each Census from 1841 to 2016 (Number),28653
+Roscommon,Male,1986,Population at Each Census from 1841 to 2016 (Number),28351
+Roscommon,Male,1991,Population at Each Census from 1841 to 2016 (Number),26694
+Roscommon,Male,1996,Population at Each Census from 1841 to 2016 (Number),26695
+Roscommon,Male,2002,Population at Each Census from 1841 to 2016 (Number),27583
+Roscommon,Male,2006,Population at Each Census from 1841 to 2016 (Number),30178
+Roscommon,Male,2011,Population at Each Census from 1841 to 2016 (Number),32353
+Roscommon,Male,2016,Population at Each Census from 1841 to 2016 (Number),32377
+Roscommon,Female,1841,Population at Each Census from 1841 to 2016 (Number),126575
+Roscommon,Female,1851,Population at Each Census from 1841 to 2016 (Number),87025
+Roscommon,Female,1861,Population at Each Census from 1841 to 2016 (Number),77431
+Roscommon,Female,1871,Population at Each Census from 1841 to 2016 (Number),70023
+Roscommon,Female,1881,Population at Each Census from 1841 to 2016 (Number),65833
+Roscommon,Female,1891,Population at Each Census from 1841 to 2016 (Number),56397
+Roscommon,Female,1901,Population at Each Census from 1841 to 2016 (Number),50558
+Roscommon,Female,1911,Population at Each Census from 1841 to 2016 (Number),45434
+Roscommon,Female,1926,Population at Each Census from 1841 to 2016 (Number),40275
+Roscommon,Female,1936,Population at Each Census from 1841 to 2016 (Number),36258
+Roscommon,Female,1946,Population at Each Census from 1841 to 2016 (Number),33665
+Roscommon,Female,1951,Population at Each Census from 1841 to 2016 (Number),31476
+Roscommon,Female,1956,Population at Each Census from 1841 to 2016 (Number),29632
+Roscommon,Female,1961,Population at Each Census from 1841 to 2016 (Number),27740
+Roscommon,Female,1966,Population at Each Census from 1841 to 2016 (Number),26446
+Roscommon,Female,1971,Population at Each Census from 1841 to 2016 (Number),25225
+Roscommon,Female,1979,Population at Each Census from 1841 to 2016 (Number),25714
+Roscommon,Female,1981,Population at Each Census from 1841 to 2016 (Number),25890
+Roscommon,Female,1986,Population at Each Census from 1841 to 2016 (Number),26241
+Roscommon,Female,1991,Population at Each Census from 1841 to 2016 (Number),25203
+Roscommon,Female,1996,Population at Each Census from 1841 to 2016 (Number),25280
+Roscommon,Female,2002,Population at Each Census from 1841 to 2016 (Number),26191
+Roscommon,Female,2006,Population at Each Census from 1841 to 2016 (Number),28590
+Roscommon,Female,2011,Population at Each Census from 1841 to 2016 (Number),31712
+Roscommon,Female,2016,Population at Each Census from 1841 to 2016 (Number),32167
+Sligo,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),180886
+Sligo,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),128515
+Sligo,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),124845
+Sligo,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),115493
+Sligo,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),111578
+Sligo,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),98013
+Sligo,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),84083
+Sligo,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),79045
+Sligo,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),71388
+Sligo,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),67447
+Sligo,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),62375
+Sligo,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),60513
+Sligo,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),56850
+Sligo,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),53561
+Sligo,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),51263
+Sligo,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),50275
+Sligo,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),54610
+Sligo,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),55474
+Sligo,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),56046
+Sligo,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),54756
+Sligo,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),55821
+Sligo,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),58200
+Sligo,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),60894
+Sligo,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),65393
+Sligo,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),65535
+Sligo,Male,1841,Population at Each Census from 1841 to 2016 (Number),89563
+Sligo,Male,1851,Population at Each Census from 1841 to 2016 (Number),62881
+Sligo,Male,1861,Population at Each Census from 1841 to 2016 (Number),61939
+Sligo,Male,1871,Population at Each Census from 1841 to 2016 (Number),56984
+Sligo,Male,1881,Population at Each Census from 1841 to 2016 (Number),55144
+Sligo,Male,1891,Population at Each Census from 1841 to 2016 (Number),48670
+Sligo,Male,1901,Population at Each Census from 1841 to 2016 (Number),41849
+Sligo,Male,1911,Population at Each Census from 1841 to 2016 (Number),40060
+Sligo,Male,1926,Population at Each Census from 1841 to 2016 (Number),36666
+Sligo,Male,1936,Population at Each Census from 1841 to 2016 (Number),35371
+Sligo,Male,1946,Population at Each Census from 1841 to 2016 (Number),32376
+Sligo,Male,1951,Population at Each Census from 1841 to 2016 (Number),31469
+Sligo,Male,1956,Population at Each Census from 1841 to 2016 (Number),29392
+Sligo,Male,1961,Population at Each Census from 1841 to 2016 (Number),27638
+Sligo,Male,1966,Population at Each Census from 1841 to 2016 (Number),26346
+Sligo,Male,1971,Population at Each Census from 1841 to 2016 (Number),25887
+Sligo,Male,1979,Population at Each Census from 1841 to 2016 (Number),27806
+Sligo,Male,1981,Population at Each Census from 1841 to 2016 (Number),28183
+Sligo,Male,1986,Population at Each Census from 1841 to 2016 (Number),28184
+Sligo,Male,1991,Population at Each Census from 1841 to 2016 (Number),27248
+Sligo,Male,1996,Population at Each Census from 1841 to 2016 (Number),27748
+Sligo,Male,2002,Population at Each Census from 1841 to 2016 (Number),28771
+Sligo,Male,2006,Population at Each Census from 1841 to 2016 (Number),30257
+Sligo,Male,2011,Population at Each Census from 1841 to 2016 (Number),32435
+Sligo,Male,2016,Population at Each Census from 1841 to 2016 (Number),32365
+Sligo,Female,1841,Population at Each Census from 1841 to 2016 (Number),91323
+Sligo,Female,1851,Population at Each Census from 1841 to 2016 (Number),65634
+Sligo,Female,1861,Population at Each Census from 1841 to 2016 (Number),62906
+Sligo,Female,1871,Population at Each Census from 1841 to 2016 (Number),58509
+Sligo,Female,1881,Population at Each Census from 1841 to 2016 (Number),56434
+Sligo,Female,1891,Population at Each Census from 1841 to 2016 (Number),49343
+Sligo,Female,1901,Population at Each Census from 1841 to 2016 (Number),42234
+Sligo,Female,1911,Population at Each Census from 1841 to 2016 (Number),38985
+Sligo,Female,1926,Population at Each Census from 1841 to 2016 (Number),34722
+Sligo,Female,1936,Population at Each Census from 1841 to 2016 (Number),32076
+Sligo,Female,1946,Population at Each Census from 1841 to 2016 (Number),29999
+Sligo,Female,1951,Population at Each Census from 1841 to 2016 (Number),29044
+Sligo,Female,1956,Population at Each Census from 1841 to 2016 (Number),27458
+Sligo,Female,1961,Population at Each Census from 1841 to 2016 (Number),25923
+Sligo,Female,1966,Population at Each Census from 1841 to 2016 (Number),24917
+Sligo,Female,1971,Population at Each Census from 1841 to 2016 (Number),24388
+Sligo,Female,1979,Population at Each Census from 1841 to 2016 (Number),26804
+Sligo,Female,1981,Population at Each Census from 1841 to 2016 (Number),27291
+Sligo,Female,1986,Population at Each Census from 1841 to 2016 (Number),27862
+Sligo,Female,1991,Population at Each Census from 1841 to 2016 (Number),27508
+Sligo,Female,1996,Population at Each Census from 1841 to 2016 (Number),28073
+Sligo,Female,2002,Population at Each Census from 1841 to 2016 (Number),29429
+Sligo,Female,2006,Population at Each Census from 1841 to 2016 (Number),30637
+Sligo,Female,2011,Population at Each Census from 1841 to 2016 (Number),32958
+Sligo,Female,2016,Population at Each Census from 1841 to 2016 (Number),33170
+Cavan,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),243158
+Cavan,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),174071
+Cavan,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),153906
+Cavan,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),140735
+Cavan,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),129476
+Cavan,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),111917
+Cavan,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),97541
+Cavan,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),91173
+Cavan,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),82452
+Cavan,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),76670
+Cavan,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),70355
+Cavan,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),66377
+Cavan,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),61740
+Cavan,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),56594
+Cavan,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),54022
+Cavan,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),52618
+Cavan,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),53720
+Cavan,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),53855
+Cavan,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),53965
+Cavan,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),52796
+Cavan,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),52944
+Cavan,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),56546
+Cavan,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),64003
+Cavan,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),73183
+Cavan,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),76176
+Cavan,Male,1841,Population at Each Census from 1841 to 2016 (Number),120814
+Cavan,Male,1851,Population at Each Census from 1841 to 2016 (Number),86610
+Cavan,Male,1861,Population at Each Census from 1841 to 2016 (Number),77503
+Cavan,Male,1871,Population at Each Census from 1841 to 2016 (Number),70479
+Cavan,Male,1881,Population at Each Census from 1841 to 2016 (Number),64637
+Cavan,Male,1891,Population at Each Census from 1841 to 2016 (Number),56772
+Cavan,Male,1901,Population at Each Census from 1841 to 2016 (Number),50087
+Cavan,Male,1911,Population at Each Census from 1841 to 2016 (Number),47743
+Cavan,Male,1926,Population at Each Census from 1841 to 2016 (Number),43550
+Cavan,Male,1936,Population at Each Census from 1841 to 2016 (Number),41446
+Cavan,Male,1946,Population at Each Census from 1841 to 2016 (Number),38121
+Cavan,Male,1951,Population at Each Census from 1841 to 2016 (Number),36187
+Cavan,Male,1956,Population at Each Census from 1841 to 2016 (Number),33177
+Cavan,Male,1961,Population at Each Census from 1841 to 2016 (Number),30277
+Cavan,Male,1966,Population at Each Census from 1841 to 2016 (Number),28803
+Cavan,Male,1971,Population at Each Census from 1841 to 2016 (Number),27819
+Cavan,Male,1979,Population at Each Census from 1841 to 2016 (Number),28302
+Cavan,Male,1981,Population at Each Census from 1841 to 2016 (Number),28338
+Cavan,Male,1986,Population at Each Census from 1841 to 2016 (Number),28202
+Cavan,Male,1991,Population at Each Census from 1841 to 2016 (Number),27314
+Cavan,Male,1996,Population at Each Census from 1841 to 2016 (Number),27281
+Cavan,Male,2002,Population at Each Census from 1841 to 2016 (Number),29015
+Cavan,Male,2006,Population at Each Census from 1841 to 2016 (Number),32915
+Cavan,Male,2011,Population at Each Census from 1841 to 2016 (Number),37013
+Cavan,Male,2016,Population at Each Census from 1841 to 2016 (Number),38330
+Cavan,Female,1841,Population at Each Census from 1841 to 2016 (Number),122344
+Cavan,Female,1851,Population at Each Census from 1841 to 2016 (Number),87461
+Cavan,Female,1861,Population at Each Census from 1841 to 2016 (Number),76403
+Cavan,Female,1871,Population at Each Census from 1841 to 2016 (Number),70256
+Cavan,Female,1881,Population at Each Census from 1841 to 2016 (Number),64839
+Cavan,Female,1891,Population at Each Census from 1841 to 2016 (Number),55145
+Cavan,Female,1901,Population at Each Census from 1841 to 2016 (Number),47454
+Cavan,Female,1911,Population at Each Census from 1841 to 2016 (Number),43430
+Cavan,Female,1926,Population at Each Census from 1841 to 2016 (Number),38902
+Cavan,Female,1936,Population at Each Census from 1841 to 2016 (Number),35224
+Cavan,Female,1946,Population at Each Census from 1841 to 2016 (Number),32234
+Cavan,Female,1951,Population at Each Census from 1841 to 2016 (Number),30190
+Cavan,Female,1956,Population at Each Census from 1841 to 2016 (Number),28563
+Cavan,Female,1961,Population at Each Census from 1841 to 2016 (Number),26317
+Cavan,Female,1966,Population at Each Census from 1841 to 2016 (Number),25219
+Cavan,Female,1971,Population at Each Census from 1841 to 2016 (Number),24799
+Cavan,Female,1979,Population at Each Census from 1841 to 2016 (Number),25418
+Cavan,Female,1981,Population at Each Census from 1841 to 2016 (Number),25517
+Cavan,Female,1986,Population at Each Census from 1841 to 2016 (Number),25763
+Cavan,Female,1991,Population at Each Census from 1841 to 2016 (Number),25482
+Cavan,Female,1996,Population at Each Census from 1841 to 2016 (Number),25663
+Cavan,Female,2002,Population at Each Census from 1841 to 2016 (Number),27531
+Cavan,Female,2006,Population at Each Census from 1841 to 2016 (Number),31088
+Cavan,Female,2011,Population at Each Census from 1841 to 2016 (Number),36170
+Cavan,Female,2016,Population at Each Census from 1841 to 2016 (Number),37846
+Donegal,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),296448
+Donegal,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),255158
+Donegal,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),237395
+Donegal,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),218334
+Donegal,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),206035
+Donegal,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),185635
+Donegal,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),173722
+Donegal,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),168537
+Donegal,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),152508
+Donegal,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),142310
+Donegal,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),136317
+Donegal,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),131530
+Donegal,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),122059
+Donegal,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),113842
+Donegal,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),108549
+Donegal,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),108344
+Donegal,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),121941
+Donegal,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),125112
+Donegal,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),129664
+Donegal,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),128117
+Donegal,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),129994
+Donegal,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),137575
+Donegal,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),147264
+Donegal,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),161137
+Donegal,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),159192
+Donegal,Male,1841,Population at Each Census from 1841 to 2016 (Number),145821
+Donegal,Male,1851,Population at Each Census from 1841 to 2016 (Number),124723
+Donegal,Male,1861,Population at Each Census from 1841 to 2016 (Number),115875
+Donegal,Male,1871,Population at Each Census from 1841 to 2016 (Number),106080
+Donegal,Male,1881,Population at Each Census from 1841 to 2016 (Number),100671
+Donegal,Male,1891,Population at Each Census from 1841 to 2016 (Number),91478
+Donegal,Male,1901,Population at Each Census from 1841 to 2016 (Number),86444
+Donegal,Male,1911,Population at Each Census from 1841 to 2016 (Number),84627
+Donegal,Male,1926,Population at Each Census from 1841 to 2016 (Number),78100
+Donegal,Male,1936,Population at Each Census from 1841 to 2016 (Number),73924
+Donegal,Male,1946,Population at Each Census from 1841 to 2016 (Number),70269
+Donegal,Male,1951,Population at Each Census from 1841 to 2016 (Number),67964
+Donegal,Male,1956,Population at Each Census from 1841 to 2016 (Number),62664
+Donegal,Male,1961,Population at Each Census from 1841 to 2016 (Number),58501
+Donegal,Male,1966,Population at Each Census from 1841 to 2016 (Number),55606
+Donegal,Male,1971,Population at Each Census from 1841 to 2016 (Number),55424
+Donegal,Male,1979,Population at Each Census from 1841 to 2016 (Number),62629
+Donegal,Male,1981,Population at Each Census from 1841 to 2016 (Number),63962
+Donegal,Male,1986,Population at Each Census from 1841 to 2016 (Number),65906
+Donegal,Male,1991,Population at Each Census from 1841 to 2016 (Number),64817
+Donegal,Male,1996,Population at Each Census from 1841 to 2016 (Number),65520
+Donegal,Male,2002,Population at Each Census from 1841 to 2016 (Number),69016
+Donegal,Male,2006,Population at Each Census from 1841 to 2016 (Number),73970
+Donegal,Male,2011,Population at Each Census from 1841 to 2016 (Number),80523
+Donegal,Male,2016,Population at Each Census from 1841 to 2016 (Number),79022
+Donegal,Female,1841,Population at Each Census from 1841 to 2016 (Number),150627
+Donegal,Female,1851,Population at Each Census from 1841 to 2016 (Number),130435
+Donegal,Female,1861,Population at Each Census from 1841 to 2016 (Number),121520
+Donegal,Female,1871,Population at Each Census from 1841 to 2016 (Number),112254
+Donegal,Female,1881,Population at Each Census from 1841 to 2016 (Number),105364
+Donegal,Female,1891,Population at Each Census from 1841 to 2016 (Number),94157
+Donegal,Female,1901,Population at Each Census from 1841 to 2016 (Number),87278
+Donegal,Female,1911,Population at Each Census from 1841 to 2016 (Number),83910
+Donegal,Female,1926,Population at Each Census from 1841 to 2016 (Number),74408
+Donegal,Female,1936,Population at Each Census from 1841 to 2016 (Number),68386
+Donegal,Female,1946,Population at Each Census from 1841 to 2016 (Number),66048
+Donegal,Female,1951,Population at Each Census from 1841 to 2016 (Number),63566
+Donegal,Female,1956,Population at Each Census from 1841 to 2016 (Number),59395
+Donegal,Female,1961,Population at Each Census from 1841 to 2016 (Number),55341
+Donegal,Female,1966,Population at Each Census from 1841 to 2016 (Number),52943
+Donegal,Female,1971,Population at Each Census from 1841 to 2016 (Number),52920
+Donegal,Female,1979,Population at Each Census from 1841 to 2016 (Number),59312
+Donegal,Female,1981,Population at Each Census from 1841 to 2016 (Number),61150
+Donegal,Female,1986,Population at Each Census from 1841 to 2016 (Number),63758
+Donegal,Female,1991,Population at Each Census from 1841 to 2016 (Number),63300
+Donegal,Female,1996,Population at Each Census from 1841 to 2016 (Number),64474
+Donegal,Female,2002,Population at Each Census from 1841 to 2016 (Number),68559
+Donegal,Female,2006,Population at Each Census from 1841 to 2016 (Number),73294
+Donegal,Female,2011,Population at Each Census from 1841 to 2016 (Number),80614
+Donegal,Female,2016,Population at Each Census from 1841 to 2016 (Number),80170
+Monaghan,Both sexes,1841,Population at Each Census from 1841 to 2016 (Number),200442
+Monaghan,Both sexes,1851,Population at Each Census from 1841 to 2016 (Number),141823
+Monaghan,Both sexes,1861,Population at Each Census from 1841 to 2016 (Number),126482
+Monaghan,Both sexes,1871,Population at Each Census from 1841 to 2016 (Number),114969
+Monaghan,Both sexes,1881,Population at Each Census from 1841 to 2016 (Number),102748
+Monaghan,Both sexes,1891,Population at Each Census from 1841 to 2016 (Number),86206
+Monaghan,Both sexes,1901,Population at Each Census from 1841 to 2016 (Number),74611
+Monaghan,Both sexes,1911,Population at Each Census from 1841 to 2016 (Number),71455
+Monaghan,Both sexes,1926,Population at Each Census from 1841 to 2016 (Number),65131
+Monaghan,Both sexes,1936,Population at Each Census from 1841 to 2016 (Number),61289
+Monaghan,Both sexes,1946,Population at Each Census from 1841 to 2016 (Number),57215
+Monaghan,Both sexes,1951,Population at Each Census from 1841 to 2016 (Number),55345
+Monaghan,Both sexes,1956,Population at Each Census from 1841 to 2016 (Number),52064
+Monaghan,Both sexes,1961,Population at Each Census from 1841 to 2016 (Number),47088
+Monaghan,Both sexes,1966,Population at Each Census from 1841 to 2016 (Number),45732
+Monaghan,Both sexes,1971,Population at Each Census from 1841 to 2016 (Number),46242
+Monaghan,Both sexes,1979,Population at Each Census from 1841 to 2016 (Number),50376
+Monaghan,Both sexes,1981,Population at Each Census from 1841 to 2016 (Number),51192
+Monaghan,Both sexes,1986,Population at Each Census from 1841 to 2016 (Number),52379
+Monaghan,Both sexes,1991,Population at Each Census from 1841 to 2016 (Number),51293
+Monaghan,Both sexes,1996,Population at Each Census from 1841 to 2016 (Number),51313
+Monaghan,Both sexes,2002,Population at Each Census from 1841 to 2016 (Number),52593
+Monaghan,Both sexes,2006,Population at Each Census from 1841 to 2016 (Number),55997
+Monaghan,Both sexes,2011,Population at Each Census from 1841 to 2016 (Number),60483
+Monaghan,Both sexes,2016,Population at Each Census from 1841 to 2016 (Number),61386
+Monaghan,Male,1841,Population at Each Census from 1841 to 2016 (Number),98071
+Monaghan,Male,1851,Population at Each Census from 1841 to 2016 (Number),68827
+Monaghan,Male,1861,Population at Each Census from 1841 to 2016 (Number),61942
+Monaghan,Male,1871,Population at Each Census from 1841 to 2016 (Number),55961
+Monaghan,Male,1881,Population at Each Census from 1841 to 2016 (Number),50077
+Monaghan,Male,1891,Population at Each Census from 1841 to 2016 (Number),42727
+Monaghan,Male,1901,Population at Each Census from 1841 to 2016 (Number),37108
+Monaghan,Male,1911,Population at Each Census from 1841 to 2016 (Number),35953
+Monaghan,Male,1926,Population at Each Census from 1841 to 2016 (Number),33258
+Monaghan,Male,1936,Population at Each Census from 1841 to 2016 (Number),31994
+Monaghan,Male,1946,Population at Each Census from 1841 to 2016 (Number),30013
+Monaghan,Male,1951,Population at Each Census from 1841 to 2016 (Number),29118
+Monaghan,Male,1956,Population at Each Census from 1841 to 2016 (Number),27294
+Monaghan,Male,1961,Population at Each Census from 1841 to 2016 (Number),24588
+Monaghan,Male,1966,Population at Each Census from 1841 to 2016 (Number),23910
+Monaghan,Male,1971,Population at Each Census from 1841 to 2016 (Number),24092
+Monaghan,Male,1979,Population at Each Census from 1841 to 2016 (Number),26245
+Monaghan,Male,1981,Population at Each Census from 1841 to 2016 (Number),26679
+Monaghan,Male,1986,Population at Each Census from 1841 to 2016 (Number),27044
+Monaghan,Male,1991,Population at Each Census from 1841 to 2016 (Number),26212
+Monaghan,Male,1996,Population at Each Census from 1841 to 2016 (Number),26158
+Monaghan,Male,2002,Population at Each Census from 1841 to 2016 (Number),26806
+Monaghan,Male,2006,Population at Each Census from 1841 to 2016 (Number),28583
+Monaghan,Male,2011,Population at Each Census from 1841 to 2016 (Number),30441
+Monaghan,Male,2016,Population at Each Census from 1841 to 2016 (Number),30866
+Monaghan,Female,1841,Population at Each Census from 1841 to 2016 (Number),102371
+Monaghan,Female,1851,Population at Each Census from 1841 to 2016 (Number),72996
+Monaghan,Female,1861,Population at Each Census from 1841 to 2016 (Number),64540
+Monaghan,Female,1871,Population at Each Census from 1841 to 2016 (Number),59008
+Monaghan,Female,1881,Population at Each Census from 1841 to 2016 (Number),52671
+Monaghan,Female,1891,Population at Each Census from 1841 to 2016 (Number),43479
+Monaghan,Female,1901,Population at Each Census from 1841 to 2016 (Number),37503
+Monaghan,Female,1911,Population at Each Census from 1841 to 2016 (Number),35502
+Monaghan,Female,1926,Population at Each Census from 1841 to 2016 (Number),31873
+Monaghan,Female,1936,Population at Each Census from 1841 to 2016 (Number),29295
+Monaghan,Female,1946,Population at Each Census from 1841 to 2016 (Number),27202
+Monaghan,Female,1951,Population at Each Census from 1841 to 2016 (Number),26227
+Monaghan,Female,1956,Population at Each Census from 1841 to 2016 (Number),24770
+Monaghan,Female,1961,Population at Each Census from 1841 to 2016 (Number),22500
+Monaghan,Female,1966,Population at Each Census from 1841 to 2016 (Number),21822
+Monaghan,Female,1971,Population at Each Census from 1841 to 2016 (Number),22150
+Monaghan,Female,1979,Population at Each Census from 1841 to 2016 (Number),24131
+Monaghan,Female,1981,Population at Each Census from 1841 to 2016 (Number),24513
+Monaghan,Female,1986,Population at Each Census from 1841 to 2016 (Number),25335
+Monaghan,Female,1991,Population at Each Census from 1841 to 2016 (Number),25081
+Monaghan,Female,1996,Population at Each Census from 1841 to 2016 (Number),25155
+Monaghan,Female,2002,Population at Each Census from 1841 to 2016 (Number),25787
+Monaghan,Female,2006,Population at Each Census from 1841 to 2016 (Number),27414
+Monaghan,Female,2011,Population at Each Census from 1841 to 2016 (Number),30042
+Monaghan,Female,2016,Population at Each Census from 1841 to 2016 (Number),30520
